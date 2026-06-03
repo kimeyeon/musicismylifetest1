@@ -1,0 +1,1448 @@
+﻿[2026-06-03 20:51:02] Starting safe music metadata fetch...
+[2026-06-03 20:51:03] --------------------------------------------
+[2026-06-03 20:51:03] [1/90] Fetching ID: m81 (summer) - almost monday - Sunburn
+[2026-06-03 20:51:03] Trying iTunes API: almost monday Sunburn
+[2026-06-03 20:51:03] Trying iTunes Fallback: almost+monday+sunburn
+[2026-06-03 20:51:03] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:03] Successfully fetched from Deezer: almost monday - sunburn
+[2026-06-03 20:51:05] --------------------------------------------
+[2026-06-03 20:51:05] [2/90] Fetching ID: m82 (summer) - Sabrina Carpenter - Espresso
+[2026-06-03 20:51:05] Trying iTunes API: Sabrina Carpenter Espresso
+[2026-06-03 20:51:05] Trying iTunes Fallback: Sabrina+Carpenter+Espresso
+[2026-06-03 20:51:05] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:06] Successfully fetched from Deezer: Sabrina Carpenter - Espresso
+[2026-06-03 20:51:08] --------------------------------------------
+[2026-06-03 20:51:08] [3/90] Fetching ID: m83 (summer) - 유라 - 수영해
+[2026-06-03 20:51:08] Trying iTunes API: 유라 수영해
+[2026-06-03 20:51:08] Trying iTunes Fallback: youra+swimming
+[2026-06-03 20:51:08] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:08] Successfully fetched from Deezer: Youra - 수영해 (Virus Edit)
+[2026-06-03 20:51:10] --------------------------------------------
+[2026-06-03 20:51:10] [4/90] Fetching ID: m84 (summer) - almost monday - Can't Slow Down
+[2026-06-03 20:51:10] Trying iTunes API: almost monday Can't Slow Down
+[2026-06-03 20:51:10] Trying iTunes Fallback: almost+monday+cant+slow+down
+[2026-06-03 20:51:10] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:10] Successfully fetched from Deezer: almost monday - can't slow down
+[2026-06-03 20:51:12] --------------------------------------------
+[2026-06-03 20:51:12] [5/90] Fetching ID: m85 (summer) - KISS OF LIFE - Sticky
+[2026-06-03 20:51:12] Trying iTunes API: KISS OF LIFE Sticky
+[2026-06-03 20:51:13] Trying iTunes Fallback: KISS+OF+LIFE+Sticky
+[2026-06-03 20:51:13] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:13] Successfully fetched from Deezer: DJ Kay Slay - Rolling 200 Deep
+[2026-06-03 20:51:15] --------------------------------------------
+[2026-06-03 20:51:15] [6/90] Fetching ID: m86 (summer) - 거북이 - 비행기
+[2026-06-03 20:51:15] Trying iTunes API: 거북이 비행기
+[2026-06-03 20:51:15] Trying iTunes Fallback: turtles+airplane+korean
+[2026-06-03 20:51:15] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:15] Successfully fetched from Deezer: Turtles - 비행기
+[2026-06-03 20:51:17] --------------------------------------------
+[2026-06-03 20:51:17] [7/90] Fetching ID: m87 (summer) - (G)I-DLE - Klaxon
+[2026-06-03 20:51:17] Trying iTunes API: (G)I-DLE Klaxon
+[2026-06-03 20:51:17] Trying iTunes Fallback: gidle+Klaxon
+[2026-06-03 20:51:17] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:18] Successfully fetched from Deezer: CIP Music - Klaxon (Piano Version)
+[2026-06-03 20:51:20] --------------------------------------------
+[2026-06-03 20:51:20] [8/90] Fetching ID: m88 (summer) - f(x) - Hot Summer
+[2026-06-03 20:51:20] Trying iTunes API: f(x) Hot Summer
+[2026-06-03 20:51:20] Trying iTunes Fallback: fx+Hot+Summer
+[2026-06-03 20:51:20] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:20] Successfully fetched from Deezer: F(x) - Hot Summer
+[2026-06-03 20:51:22] --------------------------------------------
+[2026-06-03 20:51:22] [9/90] Fetching ID: m89 (summer) - San E, 레이나 - 한여름밤의 꿀
+[2026-06-03 20:51:22] Trying iTunes API: San E, 레이나 한여름밤의 꿀
+[2026-06-03 20:51:22] Trying iTunes Fallback: San+E+midsummer+night+sweetness
+[2026-06-03 20:51:22] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:23] Deezer returned 0 results.
+[2026-06-03 20:51:23] Warning: Both iTunes and Deezer failed for 'San E, 레이나 - 한여름밤의 꿀'. Using fallback placeholders.
+[2026-06-03 20:51:27] --------------------------------------------
+[2026-06-03 20:51:27] [10/90] Fetching ID: m90 (summer) - DNCE - Cake By The Ocean
+[2026-06-03 20:51:27] Trying iTunes API: DNCE Cake By The Ocean
+[2026-06-03 20:51:27] Trying iTunes Fallback: DNCE+Cake+By+The+Ocean
+[2026-06-03 20:51:27] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:27] Successfully fetched from Deezer: DNCE - Cake By The Ocean
+[2026-06-03 20:51:29] --------------------------------------------
+[2026-06-03 20:51:29] [11/90] Fetching ID: m91 (summer) - OneRepublic - Sunshine
+[2026-06-03 20:51:29] Trying iTunes API: OneRepublic Sunshine
+[2026-06-03 20:51:29] Trying iTunes Fallback: OneRepublic+Sunshine
+[2026-06-03 20:51:29] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:29] Successfully fetched from Deezer: OneRepublic - Sunshine
+[2026-06-03 20:51:31] --------------------------------------------
+[2026-06-03 20:51:31] [12/90] Fetching ID: m92 (summer) - d4vd - Feel It
+[2026-06-03 20:51:31] Trying iTunes API: d4vd Feel It
+[2026-06-03 20:51:32] Trying iTunes Fallback: d4vd+Feel+It
+[2026-06-03 20:51:32] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:32] Successfully fetched from Deezer: d4vd - Feel It (From “Invincible”)
+[2026-06-03 20:51:34] --------------------------------------------
+[2026-06-03 20:51:34] [13/90] Fetching ID: m93 (summer) - 범키 - 여기저기거기
+[2026-06-03 20:51:34] Trying iTunes API: 범키 여기저기거기
+[2026-06-03 20:51:34] Trying iTunes Fallback: bumkey+endemic
+[2026-06-03 20:51:34] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:34] Successfully fetched from Deezer: MIC SWG - 여기저기거기 (with. BUMKEY, NONE) (MIC SWG LIVE VER)
+[2026-06-03 20:51:36] --------------------------------------------
+[2026-06-03 20:51:36] [14/90] Fetching ID: m94 (summer) - LE SSERAFIM - HOT
+[2026-06-03 20:51:36] Trying iTunes API: LE SSERAFIM HOT
+[2026-06-03 20:51:36] Trying iTunes Fallback: LE+SSERAFIM+HOT
+[2026-06-03 20:51:36] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:37] Deezer returned 0 results.
+[2026-06-03 20:51:37] Warning: Both iTunes and Deezer failed for 'LE SSERAFIM - HOT'. Using fallback placeholders.
+[2026-06-03 20:51:41] --------------------------------------------
+[2026-06-03 20:51:41] [15/90] Fetching ID: m95 (summer) - 혁오 - Surf Boy
+[2026-06-03 20:51:41] Trying iTunes API: 혁오 Surf Boy
+[2026-06-03 20:51:41] Trying iTunes Fallback: hyukoh+Surf+Boy
+[2026-06-03 20:51:41] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:41] Successfully fetched from Deezer: Hyukoh - Surf boy
+[2026-06-03 20:51:43] --------------------------------------------
+[2026-06-03 20:51:43] [16/90] Fetching ID: m96 (summer) - WOODZ - Drowning
+[2026-06-03 20:51:43] Trying iTunes API: WOODZ Drowning
+[2026-06-03 20:51:43] Trying iTunes Fallback: WOODZ+Drowning
+[2026-06-03 20:51:43] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:44] Successfully fetched from Deezer: WoodzSTHLM - Drowning
+[2026-06-03 20:51:46] --------------------------------------------
+[2026-06-03 20:51:46] [17/90] Fetching ID: m97 (summer) - 프로미스나인 - Stay This Way
+[2026-06-03 20:51:46] Trying iTunes API: 프로미스나인 Stay This Way
+[2026-06-03 20:51:46] Trying iTunes Fallback: fromis_9+Stay+This+Way
+[2026-06-03 20:51:46] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:46] Deezer returned 0 results.
+[2026-06-03 20:51:46] Warning: Both iTunes and Deezer failed for '프로미스나인 - Stay This Way'. Using fallback placeholders.
+[2026-06-03 20:51:50] --------------------------------------------
+[2026-06-03 20:51:50] [18/90] Fetching ID: m98 (summer) - 비비 - PADO
+[2026-06-03 20:51:50] Trying iTunes API: 비비 PADO
+[2026-06-03 20:51:50] Trying iTunes Fallback: BIBI+PADO
+[2026-06-03 20:51:50] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:51] Deezer returned 0 results.
+[2026-06-03 20:51:51] Warning: Both iTunes and Deezer failed for '비비 - PADO'. Using fallback placeholders.
+[2026-06-03 20:51:55] --------------------------------------------
+[2026-06-03 20:51:55] [19/90] Fetching ID: m99 (summer) - 에픽하이 - 우산 (feat. 윤하)
+[2026-06-03 20:51:55] Trying iTunes API: 에픽하이 우산 (feat. 윤하)
+[2026-06-03 20:51:55] Trying iTunes Fallback: Epik+High+umbrella+younha
+[2026-06-03 20:51:55] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:55] Successfully fetched from Deezer: Epik High - 우산 (Feat. 윤하)
+[2026-06-03 20:51:57] --------------------------------------------
+[2026-06-03 20:51:57] [20/90] Fetching ID: m100 (summer) - 리도어 - 영원은 그렇듯
+[2026-06-03 20:51:57] Trying iTunes API: 리도어 영원은 그렇듯
+[2026-06-03 20:51:57] Trying iTunes Fallback: redoor+forever
+[2026-06-03 20:51:57] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:51:57] Deezer returned 0 results.
+[2026-06-03 20:51:57] Warning: Both iTunes and Deezer failed for '리도어 - 영원은 그렇듯'. Using fallback placeholders.
+[2026-06-03 20:52:01] --------------------------------------------
+[2026-06-03 20:52:01] [21/90] Fetching ID: m101 (summer) - 헤이즈, DEAN - And July
+[2026-06-03 20:52:01] Trying iTunes API: 헤이즈, DEAN And July
+[2026-06-03 20:52:01] Trying iTunes Fallback: Heize+And+July
+[2026-06-03 20:52:01] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:02] Successfully fetched from Deezer: Heize - And July (Feat. DEAN & DJ Friz)
+[2026-06-03 20:52:04] --------------------------------------------
+[2026-06-03 20:52:04] [22/90] Fetching ID: m102 (summer) - aespa - Bahama
+[2026-06-03 20:52:04] Trying iTunes API: aespa Bahama
+[2026-06-03 20:52:04] Trying iTunes Fallback: aespa+Bahama
+[2026-06-03 20:52:04] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:04] Deezer returned 0 results.
+[2026-06-03 20:52:04] Warning: Both iTunes and Deezer failed for 'aespa - Bahama'. Using fallback placeholders.
+[2026-06-03 20:52:08] --------------------------------------------
+[2026-06-03 20:52:08] [23/90] Fetching ID: m103 (summer) - 잔나비 - 작전명 청-춘!
+[2026-06-03 20:52:08] Trying iTunes API: 잔나비 작전명 청-춘!
+[2026-06-03 20:52:08] Trying iTunes Fallback: jannabi+blue+spring
+[2026-06-03 20:52:08] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:09] Deezer returned 0 results.
+[2026-06-03 20:52:09] Warning: Both iTunes and Deezer failed for '잔나비 - 작전명 청-춘!'. Using fallback placeholders.
+[2026-06-03 20:52:13] --------------------------------------------
+[2026-06-03 20:52:13] [24/90] Fetching ID: m104 (summer) - HONNE - 3AM
+[2026-06-03 20:52:13] Trying iTunes API: HONNE 3AM
+[2026-06-03 20:52:13] Trying iTunes Fallback: HONNE+3am
+[2026-06-03 20:52:13] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:13] Successfully fetched from Deezer: Nina Simone - My Baby Just Cares For Me (HONNE Remix)
+[2026-06-03 20:52:15] --------------------------------------------
+[2026-06-03 20:52:15] [25/90] Fetching ID: m105 (summer) - Nicky Youre - Sunroof
+[2026-06-03 20:52:15] Trying iTunes API: Nicky Youre Sunroof
+[2026-06-03 20:52:15] Trying iTunes Fallback: Nicky+Youre+Sunroof
+[2026-06-03 20:52:15] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:15] Successfully fetched from Deezer: Nicky Youre - Sunroof (Acoustic)
+[2026-06-03 20:52:17] --------------------------------------------
+[2026-06-03 20:52:17] [26/90] Fetching ID: m106 (summer) - DPR LIVE - Summer Tights
+[2026-06-03 20:52:17] Trying iTunes API: DPR LIVE Summer Tights
+[2026-06-03 20:52:18] Trying iTunes Fallback: DPR+LIVE+Summer+Tights
+[2026-06-03 20:52:18] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:18] Successfully fetched from Deezer: DPR LIVE - Summer Tights
+[2026-06-03 20:52:20] --------------------------------------------
+[2026-06-03 20:52:20] [27/90] Fetching ID: m107 (summer) - WINNER - Island
+[2026-06-03 20:52:20] Trying iTunes API: WINNER Island
+[2026-06-03 20:52:20] Trying iTunes Fallback: WINNER+ISLAND
+[2026-06-03 20:52:20] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:20] Successfully fetched from Deezer: WINNER - ISLAND
+[2026-06-03 20:52:22] --------------------------------------------
+[2026-06-03 20:52:22] [28/90] Fetching ID: m108 (summer) - COIN - Malibu 1992
+[2026-06-03 20:52:22] Trying iTunes API: COIN Malibu 1992
+[2026-06-03 20:52:22] Trying iTunes Fallback: COIN+Malibu+1992
+[2026-06-03 20:52:22] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:23] Successfully fetched from Deezer: COIN - Malibu 1992
+[2026-06-03 20:52:25] --------------------------------------------
+[2026-06-03 20:52:25] [29/90] Fetching ID: m109 (summer) - Cigarettes After Sex - Sunsetz
+[2026-06-03 20:52:25] Trying iTunes API: Cigarettes After Sex Sunsetz
+[2026-06-03 20:52:25] Trying iTunes Fallback: Cigarettes+After+Sex+Sunsetz
+[2026-06-03 20:52:25] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:25] Successfully fetched from Deezer: Cigarettes After Sex - Sunsetz
+[2026-06-03 20:52:27] --------------------------------------------
+[2026-06-03 20:52:27] [30/90] Fetching ID: m110 (summer) - Empire of the Sun - Walking on a Dream
+[2026-06-03 20:52:27] Trying iTunes API: Empire of the Sun Walking on a Dream
+[2026-06-03 20:52:27] Trying iTunes Fallback: Empire+of+the+Sun+Walking+on+a+Dream
+[2026-06-03 20:52:27] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:28] Successfully fetched from Deezer: Empire Of The Sun - Walking On A Dream
+[2026-06-03 20:52:30] --------------------------------------------
+[2026-06-03 20:52:30] [31/90] Fetching ID: m111 (fall) - 이문세 - 가을이 오면
+[2026-06-03 20:52:30] Trying iTunes API: 이문세 가을이 오면
+[2026-06-03 20:52:30] Trying iTunes Fallback: lee+moon+sae+when+autumn+comes
+[2026-06-03 20:52:30] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:30] Successfully fetched from Deezer: Lee Moon Sae - 가을이 오면
+[2026-06-03 20:52:32] --------------------------------------------
+[2026-06-03 20:52:32] [32/90] Fetching ID: m112 (fall) - 잔나비 - 가을 밤에 든 생각
+[2026-06-03 20:52:32] Trying iTunes API: 잔나비 가을 밤에 든 생각
+[2026-06-03 20:52:32] Trying iTunes Fallback: jannabi+thought+autumn+night
+[2026-06-03 20:52:32] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:32] Deezer returned 0 results.
+[2026-06-03 20:52:32] Warning: Both iTunes and Deezer failed for '잔나비 - 가을 밤에 든 생각'. Using fallback placeholders.
+[2026-06-03 20:52:36] --------------------------------------------
+[2026-06-03 20:52:36] [33/90] Fetching ID: m113 (fall) - Delorians - <3 Song
+[2026-06-03 20:52:36] Trying iTunes API: Delorians <3 Song
+[2026-06-03 20:52:36] Trying iTunes Fallback: Delorians+heart+song
+[2026-06-03 20:52:36] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:37] Successfully fetched from Deezer: Delorians - <3 Song (feat. Winda Claudia)
+[2026-06-03 20:52:39] --------------------------------------------
+[2026-06-03 20:52:39] [34/90] Fetching ID: m114 (fall) - Hozier - Too Sweet
+[2026-06-03 20:52:39] Trying iTunes API: Hozier Too Sweet
+[2026-06-03 20:52:39] Trying iTunes Fallback: Hozier+Too+Sweet
+[2026-06-03 20:52:39] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:39] Successfully fetched from Deezer: Hozier - Too Sweet
+[2026-06-03 20:52:41] --------------------------------------------
+[2026-06-03 20:52:41] [35/90] Fetching ID: m115 (fall) - HONNE - Me & You
+[2026-06-03 20:52:41] Trying iTunes API: HONNE Me & You
+[2026-06-03 20:52:41] Trying iTunes Fallback: HONNE+Me+and+You
+[2026-06-03 20:52:41] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:42] Successfully fetched from Deezer: Mashonda - HONEY, I SEE YOU
+[2026-06-03 20:52:44] --------------------------------------------
+[2026-06-03 20:52:44] [36/90] Fetching ID: m116 (fall) - Connor Price - Trendsetter
+[2026-06-03 20:52:44] Trying iTunes API: Connor Price Trendsetter
+[2026-06-03 20:52:44] Trying iTunes Fallback: Connor+Price+Trendsetter
+[2026-06-03 20:52:44] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:44] Successfully fetched from Deezer: Connor Price - Trendsetter
+[2026-06-03 20:52:46] --------------------------------------------
+[2026-06-03 20:52:46] [37/90] Fetching ID: m117 (fall) - Steelix - Lay It Down (Remix)
+[2026-06-03 20:52:46] Trying iTunes API: Steelix Lay It Down (Remix)
+[2026-06-03 20:52:46] Trying iTunes Fallback: Steelix+Lay+It+Down
+[2026-06-03 20:52:46] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:46] Deezer returned 0 results.
+[2026-06-03 20:52:46] Warning: Both iTunes and Deezer failed for 'Steelix - Lay It Down (Remix)'. Using fallback placeholders.
+[2026-06-03 20:52:51] --------------------------------------------
+[2026-06-03 20:52:51] [38/90] Fetching ID: m118 (fall) - 잔나비 - November Rain
+[2026-06-03 20:52:51] Trying iTunes API: 잔나비 November Rain
+[2026-06-03 20:52:51] Trying iTunes Fallback: jannabi+November+Rain
+[2026-06-03 20:52:51] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:51] Deezer returned 0 results.
+[2026-06-03 20:52:51] Warning: Both iTunes and Deezer failed for '잔나비 - November Rain'. Using fallback placeholders.
+[2026-06-03 20:52:55] --------------------------------------------
+[2026-06-03 20:52:55] [39/90] Fetching ID: m119 (fall) - GIST - Black Swan
+[2026-06-03 20:52:55] Trying iTunes API: GIST Black Swan
+[2026-06-03 20:52:55] Trying iTunes Fallback: GIST+Black+Swan
+[2026-06-03 20:52:55] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:55] Successfully fetched from Deezer: Gist - Black Swan (Feat. Leellamarz, DON MALIK)
+[2026-06-03 20:52:57] --------------------------------------------
+[2026-06-03 20:52:57] [40/90] Fetching ID: m120 (fall) - Frank Ocean - Pink + White
+[2026-06-03 20:52:57] Trying iTunes API: Frank Ocean Pink + White
+[2026-06-03 20:52:57] Trying iTunes Fallback: Frank+Ocean+Pink+White
+[2026-06-03 20:52:57] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:52:58] Successfully fetched from Deezer: Frank Ocean - Pink + White
+[2026-06-03 20:53:00] --------------------------------------------
+[2026-06-03 20:53:00] [41/90] Fetching ID: m121 (fall) - 어반자카파 - 서울 밤
+[2026-06-03 20:53:00] Trying iTunes API: 어반자카파 서울 밤
+[2026-06-03 20:53:00] Trying iTunes Fallback: urban+zakapa+seoul+night
+[2026-06-03 20:53:00] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:00] Successfully fetched from Deezer: Urban Zakapa - Seoul Night (feat. Beenzino)
+[2026-06-03 20:53:02] --------------------------------------------
+[2026-06-03 20:53:02] [42/90] Fetching ID: m122 (fall) - 잔나비 - 투게더!
+[2026-06-03 20:53:02] Trying iTunes API: 잔나비 투게더!
+[2026-06-03 20:53:02] Trying iTunes Fallback: jannabi+together
+[2026-06-03 20:53:02] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:03] Deezer returned 0 results.
+[2026-06-03 20:53:03] Warning: Both iTunes and Deezer failed for '잔나비 - 투게더!'. Using fallback placeholders.
+[2026-06-03 20:53:07] --------------------------------------------
+[2026-06-03 20:53:07] [43/90] Fetching ID: m123 (fall) - Childish Gambino - Redbone
+[2026-06-03 20:53:07] Trying iTunes API: Childish Gambino Redbone
+[2026-06-03 20:53:07] Trying iTunes Fallback: Childish+Gambino+Redbone
+[2026-06-03 20:53:07] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:07] Successfully fetched from Deezer: Childish Gambino - Redbone
+[2026-06-03 20:53:09] --------------------------------------------
+[2026-06-03 20:53:09] [44/90] Fetching ID: m124 (fall) - 민수 - 민수는 혼란스럽다
+[2026-06-03 20:53:09] Trying iTunes API: 민수 민수는 혼란스럽다
+[2026-06-03 20:53:09] Trying iTunes Fallback: minsu+confused
+[2026-06-03 20:53:09] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:10] Successfully fetched from Deezer: Minsu - Minsu Is Confused
+[2026-06-03 20:53:12] --------------------------------------------
+[2026-06-03 20:53:12] [45/90] Fetching ID: m125 (fall) - Saint Motel - Preach
+[2026-06-03 20:53:12] Trying iTunes API: Saint Motel Preach
+[2026-06-03 20:53:12] Trying iTunes Fallback: Saint+Motel+Preach
+[2026-06-03 20:53:12] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:12] Successfully fetched from Deezer: Saint Motel - Peace n Love n Anarchy
+[2026-06-03 20:53:14] --------------------------------------------
+[2026-06-03 20:53:14] [46/90] Fetching ID: m126 (fall) - Saint Motel - My Type
+[2026-06-03 20:53:14] Trying iTunes API: Saint Motel My Type
+[2026-06-03 20:53:14] Trying iTunes Fallback: Saint+Motel+My+Type
+[2026-06-03 20:53:14] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:14] Deezer returned 0 results.
+[2026-06-03 20:53:14] Warning: Both iTunes and Deezer failed for 'Saint Motel - My Type'. Using fallback placeholders.
+[2026-06-03 20:53:18] --------------------------------------------
+[2026-06-03 20:53:18] [47/90] Fetching ID: m127 (fall) - Bruno Mars - Runaway Baby
+[2026-06-03 20:53:18] Trying iTunes API: Bruno Mars Runaway Baby
+[2026-06-03 20:53:18] Trying iTunes Fallback: Bruno+Mars+Runaway+Baby
+[2026-06-03 20:53:19] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:19] Successfully fetched from Deezer: Piano Echoes - Runaway Baby (Piano Version)
+[2026-06-03 20:53:21] --------------------------------------------
+[2026-06-03 20:53:21] [48/90] Fetching ID: m128 (fall) - almost monday - Only Wanna Dance
+[2026-06-03 20:53:21] Trying iTunes API: almost monday Only Wanna Dance
+[2026-06-03 20:53:21] Trying iTunes Fallback: almost+monday+only+wanna+dance
+[2026-06-03 20:53:21] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:21] Successfully fetched from Deezer: almost monday - only wanna dance
+[2026-06-03 20:53:23] --------------------------------------------
+[2026-06-03 20:53:23] [49/90] Fetching ID: m129 (fall) - Robin Thicke - Blurred Lines
+[2026-06-03 20:53:23] Trying iTunes API: Robin Thicke Blurred Lines
+[2026-06-03 20:53:23] Trying iTunes Fallback: Robin+Thicke+Blurred+Lines
+[2026-06-03 20:53:23] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:24] Successfully fetched from Deezer: Robin Thicke - Blurred Lines
+[2026-06-03 20:53:26] --------------------------------------------
+[2026-06-03 20:53:26] [50/90] Fetching ID: m130 (fall) - 이고도 - Mouse
+[2026-06-03 20:53:26] Trying iTunes API: 이고도 Mouse
+[2026-06-03 20:53:26] Trying iTunes Fallback: lee+go+do+Mouse
+[2026-06-03 20:53:26] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:26] Successfully fetched from Deezer: Lee go do - Mouse
+[2026-06-03 20:53:28] --------------------------------------------
+[2026-06-03 20:53:28] [51/90] Fetching ID: m131 (fall) - SZA - Good Days
+[2026-06-03 20:53:28] Trying iTunes API: SZA Good Days
+[2026-06-03 20:53:28] Trying iTunes Fallback: SZA+Good+Days
+[2026-06-03 20:53:28] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:29] Successfully fetched from Deezer: SZA - Good Days
+[2026-06-03 20:53:31] --------------------------------------------
+[2026-06-03 20:53:31] [52/90] Fetching ID: m132 (fall) - HYBS - Ride
+[2026-06-03 20:53:31] Trying iTunes API: HYBS Ride
+[2026-06-03 20:53:31] Trying iTunes Fallback: HYBS+Ride
+[2026-06-03 20:53:31] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:31] Successfully fetched from Deezer: HYBS - Ride
+[2026-06-03 20:53:33] --------------------------------------------
+[2026-06-03 20:53:33] [53/90] Fetching ID: m133 (fall) - THAMA - Real Thing
+[2026-06-03 20:53:33] Trying iTunes API: THAMA Real Thing
+[2026-06-03 20:53:33] Trying iTunes Fallback: THAMA+Real+Thing
+[2026-06-03 20:53:33] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:33] Successfully fetched from Deezer: THAMA - Real Thing (Feat. Dynamicduo)
+[2026-06-03 20:53:35] --------------------------------------------
+[2026-06-03 20:53:35] [54/90] Fetching ID: m134 (fall) - 너드커넥션 - 조용히 완전히 영원히
+[2026-06-03 20:53:35] Trying iTunes API: 너드커넥션 조용히 완전히 영원히
+[2026-06-03 20:53:35] Trying iTunes Fallback: nerd+connection+silently+completely+forever
+[2026-06-03 20:53:35] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:36] Successfully fetched from Deezer: Nerd Connection - Silently Completely Eternally
+[2026-06-03 20:53:38] --------------------------------------------
+[2026-06-03 20:53:38] [55/90] Fetching ID: m135 (fall) - Daniel Caesar - Best Part
+[2026-06-03 20:53:38] Trying iTunes API: Daniel Caesar Best Part
+[2026-06-03 20:53:38] Trying iTunes Fallback: Daniel+Caesar+Best+Part
+[2026-06-03 20:53:38] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:38] Successfully fetched from Deezer: Daniel Caesar - Best Part (feat. H.E.R.)
+[2026-06-03 20:53:40] --------------------------------------------
+[2026-06-03 20:53:40] [56/90] Fetching ID: m136 (fall) - Daniel Caesar - Japanese Denim
+[2026-06-03 20:53:40] Trying iTunes API: Daniel Caesar Japanese Denim
+[2026-06-03 20:53:40] Trying iTunes Fallback: Daniel+Caesar+Japanese+Denim
+[2026-06-03 20:53:40] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:41] Successfully fetched from Deezer: Piano Dreamers - Japanese Denim (Instrumental)
+[2026-06-03 20:53:43] --------------------------------------------
+[2026-06-03 20:53:43] [57/90] Fetching ID: m137 (fall) - Frank Ocean - Ivy
+[2026-06-03 20:53:43] Trying iTunes API: Frank Ocean Ivy
+[2026-06-03 20:53:43] Trying iTunes Fallback: Frank+Ocean+Ivy
+[2026-06-03 20:53:43] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:43] Successfully fetched from Deezer: Frank Ocean - Ivy
+[2026-06-03 20:53:45] --------------------------------------------
+[2026-06-03 20:53:45] [58/90] Fetching ID: m138 (fall) - Cage The Elephant - Cigarette Daydreams
+[2026-06-03 20:53:45] Trying iTunes API: Cage The Elephant Cigarette Daydreams
+[2026-06-03 20:53:45] Trying iTunes Fallback: Cage+The+Elephant+Cigarette+Daydreams
+[2026-06-03 20:53:45] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:45] Successfully fetched from Deezer: Cage The Elephant - Cigarette Daydreams (Unpeeled)
+[2026-06-03 20:53:47] --------------------------------------------
+[2026-06-03 20:53:47] [59/90] Fetching ID: m139 (fall) - HONNE - Location Unknown
+[2026-06-03 20:53:47] Trying iTunes API: HONNE Location Unknown
+[2026-06-03 20:53:48] Trying iTunes Fallback: HONNE+Location+Unknown
+[2026-06-03 20:53:48] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:48] Successfully fetched from Deezer: Ceria DJ Music - DJ Remix Location Unknown Honne
+[2026-06-03 20:53:50] --------------------------------------------
+[2026-06-03 20:53:50] [60/90] Fetching ID: m140 (fall) - Mahalia - Plastic Plants
+[2026-06-03 20:53:50] Trying iTunes API: Mahalia Plastic Plants
+[2026-06-03 20:53:50] Trying iTunes Fallback: Mahalia+Plastic+Plants
+[2026-06-03 20:53:50] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:50] Deezer returned 0 results.
+[2026-06-03 20:53:50] Warning: Both iTunes and Deezer failed for 'Mahalia - Plastic Plants'. Using fallback placeholders.
+[2026-06-03 20:53:54] --------------------------------------------
+[2026-06-03 20:53:54] [61/90] Fetching ID: m141 (winter) - HONNE - Warm On A Cold Night
+[2026-06-03 20:53:54] Trying iTunes API: HONNE Warm On A Cold Night
+[2026-06-03 20:53:54] Trying iTunes Fallback: HONNE+Warm+On+A+Cold+Night
+[2026-06-03 20:53:54] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:55] Deezer returned 0 results.
+[2026-06-03 20:53:55] Warning: Both iTunes and Deezer failed for 'HONNE - Warm On A Cold Night'. Using fallback placeholders.
+[2026-06-03 20:53:59] --------------------------------------------
+[2026-06-03 20:53:59] [62/90] Fetching ID: m142 (winter) - HONNE - Good Together
+[2026-06-03 20:53:59] Trying iTunes API: HONNE Good Together
+[2026-06-03 20:53:59] Trying iTunes Fallback: HONNE+Good+Together
+[2026-06-03 20:53:59] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:53:59] Successfully fetched from Deezer: Bonnie Tyler - Holding Out for a Hero (From "Footloose" Soundtrack)
+[2026-06-03 20:54:01] --------------------------------------------
+[2026-06-03 20:54:01] [63/90] Fetching ID: m143 (winter) - John Splithoff - Raye
+[2026-06-03 20:54:01] Trying iTunes API: John Splithoff Raye
+[2026-06-03 20:54:01] Trying iTunes Fallback: John+Splithoff+Raye
+[2026-06-03 20:54:01] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:54:02] Successfully fetched from Deezer: John Splithoff - Way Back
+[2026-06-03 20:54:04] --------------------------------------------
+[2026-06-03 20:54:04] [64/90] Fetching ID: m144 (winter) - HONNE - It Ain't Wrong Loving You
+[2026-06-03 20:54:04] Trying iTunes API: HONNE It Ain't Wrong Loving You
+[2026-06-03 20:54:04] Trying iTunes Fallback: HONNE+It+Aint+Wrong+Loving+You
+[2026-06-03 20:54:04] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:54:04] Deezer returned 0 results.
+[2026-06-03 20:54:04] Warning: Both iTunes and Deezer failed for 'HONNE - It Ain't Wrong Loving You'. Using fallback placeholders.
+[2026-06-03 20:54:08] --------------------------------------------
+[2026-06-03 20:54:08] [65/90] Fetching ID: m145 (winter) - 다이나믹 듀오 - 싱숭생숭
+[2026-06-03 20:54:08] Trying iTunes API: 다이나믹 듀오 싱숭생숭
+[2026-06-03 20:54:08] Trying iTunes Fallback: dynamic+duo+flutter
+[2026-06-03 20:54:08] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:54:08] Deezer returned 0 results.
+[2026-06-03 20:54:08] Warning: Both iTunes and Deezer failed for '다이나믹 듀오 - 싱숭생숭'. Using fallback placeholders.
+[2026-06-03 20:54:12] --------------------------------------------
+[2026-06-03 20:54:12] [66/90] Fetching ID: m146 (winter) - 이무진 - 눈이 오잖아
+[2026-06-03 20:54:12] Trying iTunes API: 이무진 눈이 오잖아
+[2026-06-03 20:54:13] Trying iTunes Fallback: lee+mujin+snow+falling
+[2026-06-03 20:54:13] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:54:13] Deezer returned 0 results.
+[2026-06-03 20:54:13] Warning: Both iTunes and Deezer failed for '이무진 - 눈이 오잖아'. Using fallback placeholders.
+[2026-06-03 20:54:17] --------------------------------------------
+[2026-06-03 20:54:17] [67/90] Fetching ID: m147 (winter) - sokodomo - 회전목마
+[2026-06-03 20:54:17] Trying iTunes API: sokodomo 회전목마
+[2026-06-03 20:54:17] Trying iTunes Fallback: sokodomo+merry+go+round
+[2026-06-03 20:54:17] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:54:17] Deezer returned 0 results.
+[2026-06-03 20:54:17] Warning: Both iTunes and Deezer failed for 'sokodomo - 회전목마'. Using fallback placeholders.
+[2026-06-03 20:54:21] --------------------------------------------
+[2026-06-03 20:54:21] [68/90] Fetching ID: m148 (winter) - HONNE - By My Side
+[2026-06-03 20:54:21] Trying iTunes API: HONNE By My Side
+[2026-06-03 20:54:21] Trying iTunes Fallback: HONNE+By+My+Side
+[2026-06-03 20:54:21] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:54:22] Successfully fetched from Deezer: Julia Cole - Side Piece
+[2026-06-03 20:54:24] --------------------------------------------
+[2026-06-03 20:54:24] [69/90] Fetching ID: m149 (winter) - The Weeknd - After Hours
+[2026-06-03 20:54:24] Trying iTunes API: The Weeknd After Hours
+[2026-06-03 20:54:24] Trying iTunes Fallback: The+Weeknd+After+Hours
+[2026-06-03 20:54:24] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:54:24] Successfully fetched from Deezer: The Weeknd - After Hours
+[2026-06-03 20:54:26] --------------------------------------------
+[2026-06-03 20:54:26] [70/90] Fetching ID: m150 (winter) - Joseph Lee - Mulholland Drive
+[2026-06-03 20:54:26] Trying iTunes API: Joseph Lee Mulholland Drive
+[2026-06-03 20:54:26] Trying iTunes Fallback: Joseph+Lee+Mulholland+Drive
+[2026-06-03 20:54:26] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:54:27] Deezer returned 0 results.
+[2026-06-03 20:54:27] Warning: Both iTunes and Deezer failed for 'Joseph Lee - Mulholland Drive'. Using fallback placeholders.
+[2026-06-03 20:54:31] --------------------------------------------
+[2026-06-03 20:54:31] [71/90] Fetching ID: m151 (winter) - 혁오 - 공드리
+[2026-06-03 20:54:31] Trying iTunes API: 혁오 공드리
+[2026-06-03 20:54:31] Trying iTunes Fallback: hyukoh+gondry
+[2026-06-03 20:54:31] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:54:31] Successfully fetched from Deezer: Hyukoh - Gondry
+[2026-06-03 20:54:33] --------------------------------------------
+[2026-06-03 20:54:33] [72/90] Fetching ID: m152 (winter) - Cosmic Boy - Can I Love?
+[2026-06-03 20:54:33] Trying iTunes API: Cosmic Boy Can I Love?
+[2026-06-03 20:54:33] Trying iTunes Fallback: Cosmic+Boy+Can+I+Love
+[2026-06-03 20:54:33] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:54:33] Deezer returned 0 results.
+[2026-06-03 20:54:33] Warning: Both iTunes and Deezer failed for 'Cosmic Boy - Can I Love?'. Using fallback placeholders.
+[2026-06-03 20:54:37] --------------------------------------------
+[2026-06-03 20:54:37] [73/90] Fetching ID: m153 (winter) - 윤딴딴 - 겨울을 걷는다
+[2026-06-03 20:54:37] Trying iTunes API: 윤딴딴 겨울을 걷는다
+[2026-06-03 20:54:37] Trying iTunes Fallback: yun+ddan+ddan+walking+winter
+[2026-06-03 20:54:37] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:54:38] Successfully fetched from Deezer: Yun ddan ddan - Walking in The Winter (Studio Live Version)
+[2026-06-03 20:54:40] --------------------------------------------
+[2026-06-03 20:54:40] [74/90] Fetching ID: m154 (winter) - 김하온 - Slow Down
+[2026-06-03 20:54:40] Trying iTunes API: 김하온 Slow Down
+[2026-06-03 20:54:40] Trying iTunes Fallback: HAON+Slow+Down
+[2026-06-03 20:54:40] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:54:40] Successfully fetched from Deezer: Primary - Slow down (Feat. Meego & HAON)
+[2026-06-03 20:54:42] --------------------------------------------
+[2026-06-03 20:54:42] [75/90] Fetching ID: m155 (winter) - Harry Styles - Late Night Talking
+[2026-06-03 20:54:42] Trying iTunes API: Harry Styles Late Night Talking
+[2026-06-03 20:54:42] Trying iTunes Fallback: Harry+Styles+Late+Night+Talking
+[2026-06-03 20:54:42] iTunes API blocked or failed. Switching to Deezer API...
+[2026-06-03 20:54:43] Successfully fetched from Deezer: Harry Styles - Late Night Talking
+[2026-06-03 20:56:07] Starting flat-structured music metadata fetch...
+[2026-06-03 20:56:07] --------------------------------------------
+[2026-06-03 20:56:07] [1/90] Fetching ID: m81 (summer) - almost monday - Sunburn
+[2026-06-03 20:56:07] iTunes Request: almost monday Sunburn
+[2026-06-03 20:56:08] iTunes Request: almost monday sunburn
+[2026-06-03 20:56:08] Deezer Request: almost monday Sunburn
+[2026-06-03 20:56:10] --------------------------------------------
+[2026-06-03 20:56:10] [2/90] Fetching ID: m82 (summer) - Sabrina Carpenter - Espresso
+[2026-06-03 20:56:10] iTunes Request: Sabrina Carpenter Espresso
+[2026-06-03 20:56:11] iTunes Request: Sabrina Carpenter Espresso
+[2026-06-03 20:56:11] Deezer Request: Sabrina Carpenter Espresso
+[2026-06-03 20:56:13] --------------------------------------------
+[2026-06-03 20:56:13] [3/90] Fetching ID: m83 (summer) - 유라 - 수영해
+[2026-06-03 20:56:13] iTunes Request: 유라 수영해
+[2026-06-03 20:56:13] iTunes Request: youra swimming
+[2026-06-03 20:56:14] Deezer Request: 유라 수영해
+[2026-06-03 20:56:16] --------------------------------------------
+[2026-06-03 20:56:16] [4/90] Fetching ID: m84 (summer) - almost monday - Can't Slow Down
+[2026-06-03 20:56:16] iTunes Request: almost monday Can't Slow Down
+[2026-06-03 20:56:16] iTunes Request: almost monday cant slow down
+[2026-06-03 20:56:17] Deezer Request: almost monday Can't Slow Down
+[2026-06-03 20:56:19] --------------------------------------------
+[2026-06-03 20:56:19] [5/90] Fetching ID: m85 (summer) - KISS OF LIFE - Sticky
+[2026-06-03 20:56:19] iTunes Request: KISS OF LIFE Sticky
+[2026-06-03 20:56:20] iTunes Request: KISS OF LIFE Sticky
+[2026-06-03 20:56:20] Deezer Request: KISS OF LIFE Sticky
+[2026-06-03 20:56:22] --------------------------------------------
+[2026-06-03 20:56:22] [6/90] Fetching ID: m86 (summer) - 거북이 - 비행기
+[2026-06-03 20:56:22] iTunes Request: 거북이 비행기
+[2026-06-03 20:56:22] iTunes Request: turtles airplane korean
+[2026-06-03 20:56:23] Deezer Request: 거북이 비행기
+[2026-06-03 20:56:25] --------------------------------------------
+[2026-06-03 20:56:25] [7/90] Fetching ID: m87 (summer) - (G)I-DLE - Klaxon
+[2026-06-03 20:56:25] iTunes Request: (G)I-DLE Klaxon
+[2026-06-03 20:56:25] iTunes Request: gidle Klaxon
+[2026-06-03 20:56:26] Deezer Request: (G)I-DLE Klaxon
+[2026-06-03 20:56:28] --------------------------------------------
+[2026-06-03 20:56:28] [8/90] Fetching ID: m88 (summer) - f(x) - Hot Summer
+[2026-06-03 20:56:28] iTunes Request: f(x) Hot Summer
+[2026-06-03 20:56:28] iTunes Request: fx Hot Summer
+[2026-06-03 20:56:28] Deezer Request: f(x) Hot Summer
+[2026-06-03 20:56:31] --------------------------------------------
+[2026-06-03 20:56:31] [9/90] Fetching ID: m89 (summer) - San E, 레이나 - 한여름밤의 꿀
+[2026-06-03 20:56:31] iTunes Request: San E, 레이나 한여름밤의 꿀
+[2026-06-03 20:56:31] iTunes Request: San E midsummer night sweetness
+[2026-06-03 20:56:31] Deezer Request: San E, 레이나 한여름밤의 꿀
+[2026-06-03 20:56:32] Deezer Request: San E midsummer night sweetness
+[2026-06-03 20:56:34] --------------------------------------------
+[2026-06-03 20:56:34] [10/90] Fetching ID: m90 (summer) - DNCE - Cake By The Ocean
+[2026-06-03 20:56:34] iTunes Request: DNCE Cake By The Ocean
+[2026-06-03 20:56:34] iTunes Request: DNCE Cake By The Ocean
+[2026-06-03 20:56:35] Deezer Request: DNCE Cake By The Ocean
+[2026-06-03 20:56:38] --------------------------------------------
+[2026-06-03 20:56:38] [11/90] Fetching ID: m91 (summer) - OneRepublic - Sunshine
+[2026-06-03 20:56:38] iTunes Request: OneRepublic Sunshine
+[2026-06-03 20:56:38] iTunes Request: OneRepublic Sunshine
+[2026-06-03 20:56:38] Deezer Request: OneRepublic Sunshine
+[2026-06-03 20:56:40] --------------------------------------------
+[2026-06-03 20:56:40] [12/90] Fetching ID: m92 (summer) - d4vd - Feel It
+[2026-06-03 20:56:40] iTunes Request: d4vd Feel It
+[2026-06-03 20:56:41] iTunes Request: d4vd Feel It
+[2026-06-03 20:56:41] Deezer Request: d4vd Feel It
+[2026-06-03 20:56:43] --------------------------------------------
+[2026-06-03 20:56:43] [13/90] Fetching ID: m93 (summer) - 범키 - 여기저기거기
+[2026-06-03 20:56:43] iTunes Request: 범키 여기저기거기
+[2026-06-03 20:56:44] iTunes Request: bumkey endemic
+[2026-06-03 20:56:44] Deezer Request: 범키 여기저기거기
+[2026-06-03 20:56:46] --------------------------------------------
+[2026-06-03 20:56:46] [14/90] Fetching ID: m94 (summer) - LE SSERAFIM - HOT
+[2026-06-03 20:56:46] iTunes Request: LE SSERAFIM HOT
+[2026-06-03 20:56:47] iTunes Request: LE SSERAFIM HOT
+[2026-06-03 20:56:47] Deezer Request: LE SSERAFIM HOT
+[2026-06-03 20:56:47] Deezer Request: LE SSERAFIM HOT
+[2026-06-03 20:56:48] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 20:56:52] --------------------------------------------
+[2026-06-03 20:56:52] [15/90] Fetching ID: m95 (summer) - 혁오 - Surf Boy
+[2026-06-03 20:56:52] iTunes Request: 혁오 Surf Boy
+[2026-06-03 20:56:52] iTunes Request: hyukoh Surf Boy
+[2026-06-03 20:56:52] Deezer Request: 혁오 Surf Boy
+[2026-06-03 20:56:55] --------------------------------------------
+[2026-06-03 20:56:55] [16/90] Fetching ID: m96 (summer) - WOODZ - Drowning
+[2026-06-03 20:56:55] iTunes Request: WOODZ Drowning
+[2026-06-03 20:56:55] iTunes Request: WOODZ Drowning
+[2026-06-03 20:56:55] Deezer Request: WOODZ Drowning
+[2026-06-03 20:56:58] --------------------------------------------
+[2026-06-03 20:56:58] [17/90] Fetching ID: m97 (summer) - 프로미스나인 - Stay This Way
+[2026-06-03 20:56:58] iTunes Request: 프로미스나인 Stay This Way
+[2026-06-03 20:56:58] iTunes Request: fromis_9 Stay This Way
+[2026-06-03 20:56:58] Deezer Request: 프로미스나인 Stay This Way
+[2026-06-03 20:56:59] Deezer Request: fromis_9 Stay This Way
+[2026-06-03 20:56:59] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 20:57:03] --------------------------------------------
+[2026-06-03 20:57:03] [18/90] Fetching ID: m98 (summer) - 비비 - PADO
+[2026-06-03 20:57:03] iTunes Request: 비비 PADO
+[2026-06-03 20:57:03] iTunes Request: BIBI PADO
+[2026-06-03 20:57:03] Deezer Request: 비비 PADO
+[2026-06-03 20:57:04] Deezer Request: BIBI PADO
+[2026-06-03 20:57:06] --------------------------------------------
+[2026-06-03 20:57:06] [19/90] Fetching ID: m99 (summer) - 에픽하이 - 우산 (feat. 윤하)
+[2026-06-03 20:57:06] iTunes Request: 에픽하이 우산 (feat. 윤하)
+[2026-06-03 20:57:07] iTunes Request: Epik High umbrella younha
+[2026-06-03 20:57:07] Deezer Request: 에픽하이 우산 (feat. 윤하)
+[2026-06-03 20:57:09] --------------------------------------------
+[2026-06-03 20:57:09] [20/90] Fetching ID: m100 (summer) - 리도어 - 영원은 그렇듯
+[2026-06-03 20:57:09] iTunes Request: 리도어 영원은 그렇듯
+[2026-06-03 20:57:09] iTunes Request: redoor forever
+[2026-06-03 20:57:10] Deezer Request: 리도어 영원은 그렇듯
+[2026-06-03 20:57:10] Deezer Request: redoor forever
+[2026-06-03 20:57:13] --------------------------------------------
+[2026-06-03 20:57:13] [21/90] Fetching ID: m101 (summer) - 헤이즈, DEAN - And July
+[2026-06-03 20:57:13] iTunes Request: 헤이즈, DEAN And July
+[2026-06-03 20:57:13] iTunes Request: Heize And July
+[2026-06-03 20:57:13] Deezer Request: 헤이즈, DEAN And July
+[2026-06-03 20:57:15] --------------------------------------------
+[2026-06-03 20:57:15] [22/90] Fetching ID: m102 (summer) - aespa - Bahama
+[2026-06-03 20:57:15] iTunes Request: aespa Bahama
+[2026-06-03 20:57:16] iTunes Request: aespa Bahama
+[2026-06-03 20:57:16] Deezer Request: aespa Bahama
+[2026-06-03 20:57:16] Deezer Request: aespa Bahama
+[2026-06-03 20:57:17] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 20:57:21] --------------------------------------------
+[2026-06-03 20:57:21] [23/90] Fetching ID: m103 (summer) - 잔나비 - 작전명 청-춘!
+[2026-06-03 20:57:21] iTunes Request: 잔나비 작전명 청-춘!
+[2026-06-03 20:57:21] iTunes Request: jannabi blue spring
+[2026-06-03 20:57:21] Deezer Request: 잔나비 작전명 청-춘!
+[2026-06-03 20:57:22] Deezer Request: jannabi blue spring
+[2026-06-03 20:57:22] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 20:57:26] --------------------------------------------
+[2026-06-03 20:57:26] [24/90] Fetching ID: m104 (summer) - HONNE - 3AM
+[2026-06-03 20:57:26] iTunes Request: HONNE 3AM
+[2026-06-03 20:57:26] iTunes Request: HONNE 3am
+[2026-06-03 20:57:27] Deezer Request: HONNE 3AM
+[2026-06-03 20:57:29] --------------------------------------------
+[2026-06-03 20:57:29] [25/90] Fetching ID: m105 (summer) - Nicky Youre - Sunroof
+[2026-06-03 20:57:29] iTunes Request: Nicky Youre Sunroof
+[2026-06-03 20:57:29] iTunes Request: Nicky Youre Sunroof
+[2026-06-03 20:57:30] Deezer Request: Nicky Youre Sunroof
+[2026-06-03 20:57:32] --------------------------------------------
+[2026-06-03 20:57:32] [26/90] Fetching ID: m106 (summer) - DPR LIVE - Summer Tights
+[2026-06-03 20:57:32] iTunes Request: DPR LIVE Summer Tights
+[2026-06-03 20:57:32] iTunes Request: DPR LIVE Summer Tights
+[2026-06-03 20:57:32] Deezer Request: DPR LIVE Summer Tights
+[2026-06-03 20:57:35] --------------------------------------------
+[2026-06-03 20:57:35] [27/90] Fetching ID: m107 (summer) - WINNER - Island
+[2026-06-03 20:57:35] iTunes Request: WINNER Island
+[2026-06-03 20:57:35] iTunes Request: WINNER ISLAND
+[2026-06-03 20:57:35] Deezer Request: WINNER Island
+[2026-06-03 20:57:38] --------------------------------------------
+[2026-06-03 20:57:38] [28/90] Fetching ID: m108 (summer) - COIN - Malibu 1992
+[2026-06-03 20:57:38] iTunes Request: COIN Malibu 1992
+[2026-06-03 20:57:38] iTunes Request: COIN Malibu 1992
+[2026-06-03 20:57:38] Deezer Request: COIN Malibu 1992
+[2026-06-03 20:57:41] --------------------------------------------
+[2026-06-03 20:57:41] [29/90] Fetching ID: m109 (summer) - Cigarettes After Sex - Sunsetz
+[2026-06-03 20:57:41] iTunes Request: Cigarettes After Sex Sunsetz
+[2026-06-03 20:57:41] iTunes Request: Cigarettes After Sex Sunsetz
+[2026-06-03 20:57:41] Deezer Request: Cigarettes After Sex Sunsetz
+[2026-06-03 20:57:44] --------------------------------------------
+[2026-06-03 20:57:44] [30/90] Fetching ID: m110 (summer) - Empire of the Sun - Walking on a Dream
+[2026-06-03 20:57:44] iTunes Request: Empire of the Sun Walking on a Dream
+[2026-06-03 20:57:44] iTunes Request: Empire of the Sun Walking on a Dream
+[2026-06-03 20:57:44] Deezer Request: Empire of the Sun Walking on a Dream
+[2026-06-03 20:57:46] --------------------------------------------
+[2026-06-03 20:57:46] [31/90] Fetching ID: m111 (fall) - 이문세 - 가을이 오면
+[2026-06-03 20:57:46] iTunes Request: 이문세 가을이 오면
+[2026-06-03 20:57:47] iTunes Request: lee moon sae when autumn comes
+[2026-06-03 20:57:47] Deezer Request: 이문세 가을이 오면
+[2026-06-03 20:57:50] --------------------------------------------
+[2026-06-03 20:57:50] [32/90] Fetching ID: m112 (fall) - 잔나비 - 가을 밤에 든 생각
+[2026-06-03 20:57:50] iTunes Request: 잔나비 가을 밤에 든 생각
+[2026-06-03 20:57:50] iTunes Request: jannabi thought autumn night
+[2026-06-03 20:57:50] Deezer Request: 잔나비 가을 밤에 든 생각
+[2026-06-03 20:57:50] Deezer Request: jannabi thought autumn night
+[2026-06-03 20:57:51] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 20:57:55] --------------------------------------------
+[2026-06-03 20:57:55] [33/90] Fetching ID: m113 (fall) - Delorians - <3 Song
+[2026-06-03 20:57:55] iTunes Request: Delorians <3 Song
+[2026-06-03 20:57:55] iTunes Request: Delorians heart song
+[2026-06-03 20:57:55] Deezer Request: Delorians <3 Song
+[2026-06-03 20:57:58] --------------------------------------------
+[2026-06-03 20:57:58] [34/90] Fetching ID: m114 (fall) - Hozier - Too Sweet
+[2026-06-03 20:57:58] iTunes Request: Hozier Too Sweet
+[2026-06-03 20:57:58] iTunes Request: Hozier Too Sweet
+[2026-06-03 20:57:58] Deezer Request: Hozier Too Sweet
+[2026-06-03 20:58:01] --------------------------------------------
+[2026-06-03 20:58:01] [35/90] Fetching ID: m115 (fall) - HONNE - Me & You
+[2026-06-03 20:58:01] iTunes Request: HONNE Me & You
+[2026-06-03 20:58:01] iTunes Request: HONNE Me and You
+[2026-06-03 20:58:01] Deezer Request: HONNE Me & You
+[2026-06-03 20:58:04] --------------------------------------------
+[2026-06-03 20:58:04] [36/90] Fetching ID: m116 (fall) - Connor Price - Trendsetter
+[2026-06-03 20:58:04] iTunes Request: Connor Price Trendsetter
+[2026-06-03 20:58:04] iTunes Request: Connor Price Trendsetter
+[2026-06-03 20:58:04] Deezer Request: Connor Price Trendsetter
+[2026-06-03 20:58:07] --------------------------------------------
+[2026-06-03 20:58:07] [37/90] Fetching ID: m117 (fall) - Steelix - Lay It Down (Remix)
+[2026-06-03 20:58:07] iTunes Request: Steelix Lay It Down (Remix)
+[2026-06-03 20:58:07] iTunes Request: Steelix Lay It Down
+[2026-06-03 20:58:07] Deezer Request: Steelix Lay It Down (Remix)
+[2026-06-03 20:58:08] Deezer Request: Steelix Lay It Down
+[2026-06-03 20:58:10] --------------------------------------------
+[2026-06-03 20:58:10] [38/90] Fetching ID: m118 (fall) - 잔나비 - November Rain
+[2026-06-03 20:58:10] iTunes Request: 잔나비 November Rain
+[2026-06-03 20:58:10] iTunes Request: jannabi November Rain
+[2026-06-03 20:58:11] Deezer Request: 잔나비 November Rain
+[2026-06-03 20:58:11] Deezer Request: jannabi November Rain
+[2026-06-03 20:58:11] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 20:58:15] --------------------------------------------
+[2026-06-03 20:58:15] [39/90] Fetching ID: m119 (fall) - GIST - Black Swan
+[2026-06-03 20:58:15] iTunes Request: GIST Black Swan
+[2026-06-03 20:58:15] iTunes Request: GIST Black Swan
+[2026-06-03 20:58:16] Deezer Request: GIST Black Swan
+[2026-06-03 20:58:18] --------------------------------------------
+[2026-06-03 20:58:18] [40/90] Fetching ID: m120 (fall) - Frank Ocean - Pink + White
+[2026-06-03 20:58:18] iTunes Request: Frank Ocean Pink + White
+[2026-06-03 20:58:18] iTunes Request: Frank Ocean Pink White
+[2026-06-03 20:58:19] Deezer Request: Frank Ocean Pink + White
+[2026-06-03 20:58:21] --------------------------------------------
+[2026-06-03 20:58:21] [41/90] Fetching ID: m121 (fall) - 어반자카파 - 서울 밤
+[2026-06-03 20:58:21] iTunes Request: 어반자카파 서울 밤
+[2026-06-03 20:58:21] iTunes Request: urban zakapa seoul night
+[2026-06-03 20:58:22] Deezer Request: 어반자카파 서울 밤
+[2026-06-03 20:58:24] --------------------------------------------
+[2026-06-03 20:58:24] [42/90] Fetching ID: m122 (fall) - 잔나비 - 투게더!
+[2026-06-03 20:58:24] iTunes Request: 잔나비 투게더!
+[2026-06-03 20:58:24] iTunes Request: jannabi together
+[2026-06-03 20:58:24] Deezer Request: 잔나비 투게더!
+[2026-06-03 20:58:25] Deezer Request: jannabi together
+[2026-06-03 20:58:27] --------------------------------------------
+[2026-06-03 20:58:27] [43/90] Fetching ID: m123 (fall) - Childish Gambino - Redbone
+[2026-06-03 20:58:27] iTunes Request: Childish Gambino Redbone
+[2026-06-03 20:58:27] iTunes Request: Childish Gambino Redbone
+[2026-06-03 20:58:28] Deezer Request: Childish Gambino Redbone
+[2026-06-03 20:58:30] --------------------------------------------
+[2026-06-03 20:58:30] [44/90] Fetching ID: m124 (fall) - 민수 - 민수는 혼란스럽다
+[2026-06-03 20:58:30] iTunes Request: 민수 민수는 혼란스럽다
+[2026-06-03 20:58:30] iTunes Request: minsu confused
+[2026-06-03 20:58:31] Deezer Request: 민수 민수는 혼란스럽다
+[2026-06-03 20:58:33] --------------------------------------------
+[2026-06-03 20:58:33] [45/90] Fetching ID: m125 (fall) - Saint Motel - Preach
+[2026-06-03 20:58:33] iTunes Request: Saint Motel Preach
+[2026-06-03 20:58:33] iTunes Request: Saint Motel Preach
+[2026-06-03 20:58:33] Deezer Request: Saint Motel Preach
+[2026-06-03 20:58:36] --------------------------------------------
+[2026-06-03 20:58:36] [46/90] Fetching ID: m126 (fall) - Saint Motel - My Type
+[2026-06-03 20:58:36] iTunes Request: Saint Motel My Type
+[2026-06-03 20:58:36] iTunes Request: Saint Motel My Type
+[2026-06-03 20:58:36] Deezer Request: Saint Motel My Type
+[2026-06-03 20:58:37] Deezer Request: Saint Motel My Type
+[2026-06-03 20:58:37] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 20:58:41] --------------------------------------------
+[2026-06-03 20:58:41] [47/90] Fetching ID: m127 (fall) - Bruno Mars - Runaway Baby
+[2026-06-03 20:58:41] iTunes Request: Bruno Mars Runaway Baby
+[2026-06-03 20:58:42] iTunes Request: Bruno Mars Runaway Baby
+[2026-06-03 20:58:42] Deezer Request: Bruno Mars Runaway Baby
+[2026-06-03 20:58:44] --------------------------------------------
+[2026-06-03 20:58:44] [48/90] Fetching ID: m128 (fall) - almost monday - Only Wanna Dance
+[2026-06-03 20:58:44] iTunes Request: almost monday Only Wanna Dance
+[2026-06-03 20:58:44] iTunes Request: almost monday only wanna dance
+[2026-06-03 20:58:45] Deezer Request: almost monday Only Wanna Dance
+[2026-06-03 20:58:47] --------------------------------------------
+[2026-06-03 20:58:47] [49/90] Fetching ID: m129 (fall) - Robin Thicke - Blurred Lines
+[2026-06-03 20:58:47] iTunes Request: Robin Thicke Blurred Lines
+[2026-06-03 20:58:47] iTunes Request: Robin Thicke Blurred Lines
+[2026-06-03 20:58:48] Deezer Request: Robin Thicke Blurred Lines
+[2026-06-03 20:58:50] --------------------------------------------
+[2026-06-03 20:58:50] [50/90] Fetching ID: m130 (fall) - 이고도 - Mouse
+[2026-06-03 20:58:50] iTunes Request: 이고도 Mouse
+[2026-06-03 20:58:50] iTunes Request: lee go do Mouse
+[2026-06-03 20:58:51] Deezer Request: 이고도 Mouse
+[2026-06-03 20:58:53] --------------------------------------------
+[2026-06-03 20:58:53] [51/90] Fetching ID: m131 (fall) - SZA - Good Days
+[2026-06-03 20:58:53] iTunes Request: SZA Good Days
+[2026-06-03 20:58:53] iTunes Request: SZA Good Days
+[2026-06-03 20:58:54] Deezer Request: SZA Good Days
+[2026-06-03 20:58:56] --------------------------------------------
+[2026-06-03 20:58:56] [52/90] Fetching ID: m132 (fall) - HYBS - Ride
+[2026-06-03 20:58:56] iTunes Request: HYBS Ride
+[2026-06-03 20:58:56] iTunes Request: HYBS Ride
+[2026-06-03 20:58:57] Deezer Request: HYBS Ride
+[2026-06-03 20:58:59] --------------------------------------------
+[2026-06-03 20:58:59] [53/90] Fetching ID: m133 (fall) - THAMA - Real Thing
+[2026-06-03 20:58:59] iTunes Request: THAMA Real Thing
+[2026-06-03 20:58:59] iTunes Request: THAMA Real Thing
+[2026-06-03 20:59:00] Deezer Request: THAMA Real Thing
+[2026-06-03 20:59:02] --------------------------------------------
+[2026-06-03 20:59:02] [54/90] Fetching ID: m134 (fall) - 너드커넥션 - 조용히 완전히 영원히
+[2026-06-03 20:59:02] iTunes Request: 너드커넥션 조용히 완전히 영원히
+[2026-06-03 20:59:02] iTunes Request: nerd connection silently completely forever
+[2026-06-03 20:59:02] Deezer Request: 너드커넥션 조용히 완전히 영원히
+[2026-06-03 20:59:05] --------------------------------------------
+[2026-06-03 20:59:05] [55/90] Fetching ID: m135 (fall) - Daniel Caesar - Best Part
+[2026-06-03 20:59:05] iTunes Request: Daniel Caesar Best Part
+[2026-06-03 20:59:05] iTunes Request: Daniel Caesar Best Part
+[2026-06-03 20:59:05] Deezer Request: Daniel Caesar Best Part
+[2026-06-03 20:59:08] --------------------------------------------
+[2026-06-03 20:59:08] [56/90] Fetching ID: m136 (fall) - Daniel Caesar - Japanese Denim
+[2026-06-03 20:59:08] iTunes Request: Daniel Caesar Japanese Denim
+[2026-06-03 20:59:08] iTunes Request: Daniel Caesar Japanese Denim
+[2026-06-03 20:59:09] Deezer Request: Daniel Caesar Japanese Denim
+[2026-06-03 20:59:11] --------------------------------------------
+[2026-06-03 20:59:11] [57/90] Fetching ID: m137 (fall) - Frank Ocean - Ivy
+[2026-06-03 20:59:11] iTunes Request: Frank Ocean Ivy
+[2026-06-03 20:59:11] iTunes Request: Frank Ocean Ivy
+[2026-06-03 20:59:11] Deezer Request: Frank Ocean Ivy
+[2026-06-03 20:59:14] --------------------------------------------
+[2026-06-03 20:59:14] [58/90] Fetching ID: m138 (fall) - Cage The Elephant - Cigarette Daydreams
+[2026-06-03 20:59:14] iTunes Request: Cage The Elephant Cigarette Daydreams
+[2026-06-03 20:59:14] iTunes Request: Cage The Elephant Cigarette Daydreams
+[2026-06-03 20:59:14] Deezer Request: Cage The Elephant Cigarette Daydreams
+[2026-06-03 20:59:17] --------------------------------------------
+[2026-06-03 20:59:17] [59/90] Fetching ID: m139 (fall) - HONNE - Location Unknown
+[2026-06-03 20:59:17] iTunes Request: HONNE Location Unknown
+[2026-06-03 20:59:17] iTunes Request: HONNE Location Unknown
+[2026-06-03 20:59:17] Deezer Request: HONNE Location Unknown
+[2026-06-03 20:59:20] --------------------------------------------
+[2026-06-03 20:59:20] [60/90] Fetching ID: m140 (fall) - Mahalia - Plastic Plants
+[2026-06-03 20:59:20] iTunes Request: Mahalia Plastic Plants
+[2026-06-03 20:59:20] iTunes Request: Mahalia Plastic Plants
+[2026-06-03 20:59:20] Deezer Request: Mahalia Plastic Plants
+[2026-06-03 20:59:20] Deezer Request: Mahalia Plastic Plants
+[2026-06-03 20:59:21] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 20:59:25] --------------------------------------------
+[2026-06-03 20:59:25] [61/90] Fetching ID: m141 (winter) - HONNE - Warm On A Cold Night
+[2026-06-03 20:59:25] iTunes Request: HONNE Warm On A Cold Night
+[2026-06-03 20:59:25] iTunes Request: HONNE Warm On A Cold Night
+[2026-06-03 20:59:25] Deezer Request: HONNE Warm On A Cold Night
+[2026-06-03 20:59:26] Deezer Request: HONNE Warm On A Cold Night
+[2026-06-03 20:59:26] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 20:59:30] --------------------------------------------
+[2026-06-03 20:59:30] [62/90] Fetching ID: m142 (winter) - HONNE - Good Together
+[2026-06-03 20:59:30] iTunes Request: HONNE Good Together
+[2026-06-03 20:59:31] iTunes Request: HONNE Good Together
+[2026-06-03 20:59:31] Deezer Request: HONNE Good Together
+[2026-06-03 20:59:33] --------------------------------------------
+[2026-06-03 20:59:33] [63/90] Fetching ID: m143 (winter) - John Splithoff - Raye
+[2026-06-03 20:59:33] iTunes Request: John Splithoff Raye
+[2026-06-03 20:59:34] iTunes Request: John Splithoff Raye
+[2026-06-03 20:59:34] Deezer Request: John Splithoff Raye
+[2026-06-03 20:59:36] --------------------------------------------
+[2026-06-03 20:59:36] [64/90] Fetching ID: m144 (winter) - HONNE - It Ain't Wrong Loving You
+[2026-06-03 20:59:36] iTunes Request: HONNE It Ain't Wrong Loving You
+[2026-06-03 20:59:37] iTunes Request: HONNE It Aint Wrong Loving You
+[2026-06-03 20:59:37] Deezer Request: HONNE It Ain't Wrong Loving You
+[2026-06-03 20:59:37] Deezer Request: HONNE It Aint Wrong Loving You
+[2026-06-03 20:59:38] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 20:59:42] --------------------------------------------
+[2026-06-03 20:59:42] [65/90] Fetching ID: m145 (winter) - 다이나믹 듀오 - 싱숭생숭
+[2026-06-03 20:59:42] iTunes Request: 다이나믹 듀오 싱숭생숭
+[2026-06-03 20:59:42] iTunes Request: dynamic duo flutter
+[2026-06-03 20:59:42] Deezer Request: 다이나믹 듀오 싱숭생숭
+[2026-06-03 20:59:43] Deezer Request: dynamic duo flutter
+[2026-06-03 20:59:43] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 20:59:47] --------------------------------------------
+[2026-06-03 20:59:47] [66/90] Fetching ID: m146 (winter) - 이무진 - 눈이 오잖아
+[2026-06-03 20:59:47] iTunes Request: 이무진 눈이 오잖아
+[2026-06-03 20:59:47] iTunes Request: lee mujin snow falling
+[2026-06-03 20:59:48] Deezer Request: 이무진 눈이 오잖아
+[2026-06-03 20:59:48] Deezer Request: lee mujin snow falling
+[2026-06-03 20:59:48] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 20:59:52] --------------------------------------------
+[2026-06-03 20:59:52] [67/90] Fetching ID: m147 (winter) - sokodomo - 회전목마
+[2026-06-03 20:59:52] iTunes Request: sokodomo 회전목마
+[2026-06-03 20:59:53] iTunes Request: sokodomo merry go round
+[2026-06-03 20:59:53] Deezer Request: sokodomo 회전목마
+[2026-06-03 20:59:53] Deezer Request: sokodomo merry go round
+[2026-06-03 20:59:56] --------------------------------------------
+[2026-06-03 20:59:56] [68/90] Fetching ID: m148 (winter) - HONNE - By My Side
+[2026-06-03 20:59:56] iTunes Request: HONNE By My Side
+[2026-06-03 20:59:56] iTunes Request: HONNE By My Side
+[2026-06-03 20:59:56] Deezer Request: HONNE By My Side
+[2026-06-03 20:59:59] --------------------------------------------
+[2026-06-03 20:59:59] [69/90] Fetching ID: m149 (winter) - The Weeknd - After Hours
+[2026-06-03 20:59:59] iTunes Request: The Weeknd After Hours
+[2026-06-03 20:59:59] iTunes Request: The Weeknd After Hours
+[2026-06-03 20:59:59] Deezer Request: The Weeknd After Hours
+[2026-06-03 21:00:02] --------------------------------------------
+[2026-06-03 21:00:02] [70/90] Fetching ID: m150 (winter) - Joseph Lee - Mulholland Drive
+[2026-06-03 21:00:02] iTunes Request: Joseph Lee Mulholland Drive
+[2026-06-03 21:00:02] iTunes Request: Joseph Lee Mulholland Drive
+[2026-06-03 21:00:02] Deezer Request: Joseph Lee Mulholland Drive
+[2026-06-03 21:00:02] Deezer Request: Joseph Lee Mulholland Drive
+[2026-06-03 21:00:03] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:00:07] --------------------------------------------
+[2026-06-03 21:00:07] [71/90] Fetching ID: m151 (winter) - 혁오 - 공드리
+[2026-06-03 21:00:07] iTunes Request: 혁오 공드리
+[2026-06-03 21:00:07] iTunes Request: hyukoh gondry
+[2026-06-03 21:00:07] Deezer Request: 혁오 공드리
+[2026-06-03 21:00:10] --------------------------------------------
+[2026-06-03 21:00:10] [72/90] Fetching ID: m152 (winter) - Cosmic Boy - Can I Love?
+[2026-06-03 21:00:10] iTunes Request: Cosmic Boy Can I Love?
+[2026-06-03 21:00:10] iTunes Request: Cosmic Boy Can I Love
+[2026-06-03 21:00:10] Deezer Request: Cosmic Boy Can I Love?
+[2026-06-03 21:00:11] Deezer Request: Cosmic Boy Can I Love
+[2026-06-03 21:00:11] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:00:15] --------------------------------------------
+[2026-06-03 21:00:15] [73/90] Fetching ID: m153 (winter) - 윤딴딴 - 겨울을 걷는다
+[2026-06-03 21:00:15] iTunes Request: 윤딴딴 겨울을 걷는다
+[2026-06-03 21:00:15] iTunes Request: yun ddan ddan walking winter
+[2026-06-03 21:00:16] Deezer Request: 윤딴딴 겨울을 걷는다
+[2026-06-03 21:00:18] --------------------------------------------
+[2026-06-03 21:00:18] [74/90] Fetching ID: m154 (winter) - 김하온 - Slow Down
+[2026-06-03 21:00:18] iTunes Request: 김하온 Slow Down
+[2026-06-03 21:00:19] iTunes Request: HAON Slow Down
+[2026-06-03 21:00:19] Deezer Request: 김하온 Slow Down
+[2026-06-03 21:00:21] --------------------------------------------
+[2026-06-03 21:00:21] [75/90] Fetching ID: m155 (winter) - Harry Styles - Late Night Talking
+[2026-06-03 21:00:21] iTunes Request: Harry Styles Late Night Talking
+[2026-06-03 21:00:21] iTunes Request: Harry Styles Late Night Talking
+[2026-06-03 21:00:22] Deezer Request: Harry Styles Late Night Talking
+[2026-06-03 21:00:24] --------------------------------------------
+[2026-06-03 21:00:24] [76/90] Fetching ID: m156 (winter) - Chuck Berry - Run Rudolph Run
+[2026-06-03 21:00:24] iTunes Request: Chuck Berry Run Rudolph Run
+[2026-06-03 21:00:25] iTunes Request: Chuck Berry Run Rudolph Run
+[2026-06-03 21:00:25] Deezer Request: Chuck Berry Run Rudolph Run
+[2026-06-03 21:00:27] --------------------------------------------
+[2026-06-03 21:00:27] [77/90] Fetching ID: m157 (winter) - Mariah Carey - All I Want For Christmas Is You
+[2026-06-03 21:00:27] iTunes Request: Mariah Carey All I Want For Christmas Is You
+[2026-06-03 21:00:28] iTunes Request: Mariah Carey All I Want For Christmas
+[2026-06-03 21:00:28] Deezer Request: Mariah Carey All I Want For Christmas Is You
+[2026-06-03 21:00:30] --------------------------------------------
+[2026-06-03 21:00:30] [78/90] Fetching ID: m158 (winter) - Gwen Stefani - You Make It Feel Like Christmas
+[2026-06-03 21:00:30] iTunes Request: Gwen Stefani You Make It Feel Like Christmas
+[2026-06-03 21:00:31] iTunes Request: Gwen Stefani You Make It Feel Like Christmas
+[2026-06-03 21:00:31] Deezer Request: Gwen Stefani You Make It Feel Like Christmas
+[2026-06-03 21:00:33] --------------------------------------------
+[2026-06-03 21:00:33] [79/90] Fetching ID: m159 (winter) - Kelly Clarkson - Underneath The Tree
+[2026-06-03 21:00:33] iTunes Request: Kelly Clarkson Underneath The Tree
+[2026-06-03 21:00:34] iTunes Request: Kelly Clarkson Underneath The Tree
+[2026-06-03 21:00:34] Deezer Request: Kelly Clarkson Underneath The Tree
+[2026-06-03 21:00:36] --------------------------------------------
+[2026-06-03 21:00:36] [80/90] Fetching ID: m160 (winter) - George Michael - Careless Whisper
+[2026-06-03 21:00:36] iTunes Request: George Michael Careless Whisper
+[2026-06-03 21:00:37] iTunes Request: George Michael Careless Whisper
+[2026-06-03 21:00:37] Deezer Request: George Michael Careless Whisper
+[2026-06-03 21:00:39] --------------------------------------------
+[2026-06-03 21:00:39] [81/90] Fetching ID: m161 (winter) - Ghost - Mary On A Cross
+[2026-06-03 21:00:39] iTunes Request: Ghost Mary On A Cross
+[2026-06-03 21:00:40] iTunes Request: Ghost Mary On A Cross
+[2026-06-03 21:00:40] Deezer Request: Ghost Mary On A Cross
+[2026-06-03 21:00:42] --------------------------------------------
+[2026-06-03 21:00:42] [82/90] Fetching ID: m162 (winter) - Jeremih, Ty Dolla $ign, Sage The Gemini - Don't Get Much Better
+[2026-06-03 21:00:42] iTunes Request: Jeremih, Ty Dolla $ign, Sage The Gemini Don't Get Much Better
+[2026-06-03 21:00:42] iTunes Request: Jeremih Dont Get Much Better
+[2026-06-03 21:00:43] Deezer Request: Jeremih, Ty Dolla $ign, Sage The Gemini Don't Get Much Better
+[2026-06-03 21:00:43] Deezer Request: Jeremih Dont Get Much Better
+[2026-06-03 21:00:44] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:00:48] --------------------------------------------
+[2026-06-03 21:00:48] [83/90] Fetching ID: m163 (winter) - HONNE - Crying Over You
+[2026-06-03 21:00:48] iTunes Request: HONNE Crying Over You
+[2026-06-03 21:00:48] iTunes Request: HONNE Crying Over You
+[2026-06-03 21:00:48] Deezer Request: HONNE Crying Over You
+[2026-06-03 21:00:51] --------------------------------------------
+[2026-06-03 21:00:51] [84/90] Fetching ID: m164 (winter) - HONNE - no song without you
+[2026-06-03 21:00:51] iTunes Request: HONNE no song without you
+[2026-06-03 21:00:51] iTunes Request: HONNE no song without you
+[2026-06-03 21:00:51] Deezer Request: HONNE no song without you
+[2026-06-03 21:00:54] --------------------------------------------
+[2026-06-03 21:00:54] [85/90] Fetching ID: m165 (winter) - HONNE - Someone That Loves You
+[2026-06-03 21:00:54] iTunes Request: HONNE Someone That Loves You
+[2026-06-03 21:00:54] iTunes Request: HONNE Someone That Loves You
+[2026-06-03 21:00:54] Deezer Request: HONNE Someone That Loves You
+[2026-06-03 21:00:57] --------------------------------------------
+[2026-06-03 21:00:57] [86/90] Fetching ID: m166 (winter) - Arctic Monkeys - 505
+[2026-06-03 21:00:57] iTunes Request: Arctic Monkeys 505
+[2026-06-03 21:00:57] iTunes Request: Arctic Monkeys 505
+[2026-06-03 21:00:58] Deezer Request: Arctic Monkeys 505
+[2026-06-03 21:01:00] --------------------------------------------
+[2026-06-03 21:01:00] [87/90] Fetching ID: m167 (winter) - Sia - Snowman
+[2026-06-03 21:01:00] iTunes Request: Sia Snowman
+[2026-06-03 21:01:00] iTunes Request: Sia Snowman
+[2026-06-03 21:01:01] Deezer Request: Sia Snowman
+[2026-06-03 21:01:03] --------------------------------------------
+[2026-06-03 21:01:03] [88/90] Fetching ID: m168 (winter) - Coldplay - Christmas Lights
+[2026-06-03 21:01:03] iTunes Request: Coldplay Christmas Lights
+[2026-06-03 21:01:03] iTunes Request: Coldplay Christmas Lights
+[2026-06-03 21:01:04] Deezer Request: Coldplay Christmas Lights
+[2026-06-03 21:01:06] --------------------------------------------
+[2026-06-03 21:01:06] [89/90] Fetching ID: m169 (winter) - The Neighbourhood - Sweater Weather
+[2026-06-03 21:01:06] iTunes Request: The Neighbourhood Sweater Weather
+[2026-06-03 21:01:06] iTunes Request: The Neighbourhood Sweater Weather
+[2026-06-03 21:01:07] Deezer Request: The Neighbourhood Sweater Weather
+[2026-06-03 21:01:09] --------------------------------------------
+[2026-06-03 21:01:09] [90/90] Fetching ID: m170 (winter) - beabadoobee - Glue Song
+[2026-06-03 21:01:09] iTunes Request: beabadoobee Glue Song
+[2026-06-03 21:01:09] iTunes Request: beabadoobee Glue Song
+[2026-06-03 21:01:10] Deezer Request: beabadoobee Glue Song
+[2026-06-03 21:01:12] Metadata fetch process completed! Total 90 songs saved to scratch/all_seasons_fixed.json
+[2026-06-03 21:04:36] Starting flat-structured music metadata fetch (v6)...
+[2026-06-03 21:04:36] --------------------------------------------
+[2026-06-03 21:04:36] [1/90] Fetching ID: m81 (summer) - almost monday - Sunburn
+[2026-06-03 21:04:36] iTunes Request: almost monday Sunburn
+[2026-06-03 21:04:37] iTunes Request: almost monday sunburn
+[2026-06-03 21:04:37] Deezer Request: almost monday Sunburn
+[2026-06-03 21:04:40] --------------------------------------------
+[2026-06-03 21:04:40] [2/90] Fetching ID: m82 (summer) - Sabrina Carpenter - Espresso
+[2026-06-03 21:04:40] iTunes Request: Sabrina Carpenter Espresso
+[2026-06-03 21:04:40] iTunes Request: Sabrina Carpenter Espresso
+[2026-06-03 21:04:41] Deezer Request: Sabrina Carpenter Espresso
+[2026-06-03 21:04:43] --------------------------------------------
+[2026-06-03 21:04:43] [3/90] Fetching ID: m83 (summer) - 유라 - 수영해
+[2026-06-03 21:04:43] iTunes Request: 유라 수영해
+[2026-06-03 21:04:43] iTunes Request: youra swimming
+[2026-06-03 21:04:44] Deezer Request: 유라 수영해
+[2026-06-03 21:04:46] --------------------------------------------
+[2026-06-03 21:04:46] [4/90] Fetching ID: m84 (summer) - almost monday - Can't Slow Down
+[2026-06-03 21:04:46] iTunes Request: almost monday Can't Slow Down
+[2026-06-03 21:04:47] iTunes Request: almost monday cant slow down
+[2026-06-03 21:04:47] Deezer Request: almost monday Can't Slow Down
+[2026-06-03 21:04:49] --------------------------------------------
+[2026-06-03 21:04:49] [5/90] Fetching ID: m85 (summer) - KISS OF LIFE - Sticky
+[2026-06-03 21:04:49] iTunes Request: KISS OF LIFE Sticky
+[2026-06-03 21:04:50] iTunes Request: KISS OF LIFE Sticky
+[2026-06-03 21:04:50] Deezer Request: KISS OF LIFE Sticky
+[2026-06-03 21:04:52] --------------------------------------------
+[2026-06-03 21:04:52] [6/90] Fetching ID: m86 (summer) - 거북이 - 비행기
+[2026-06-03 21:04:52] iTunes Request: 거북이 비행기
+[2026-06-03 21:04:53] iTunes Request: turtles airplane korean
+[2026-06-03 21:04:53] Deezer Request: 거북이 비행기
+[2026-06-03 21:04:55] --------------------------------------------
+[2026-06-03 21:04:55] [7/90] Fetching ID: m87 (summer) - (G)I-DLE - Klaxon
+[2026-06-03 21:04:55] iTunes Request: (G)I-DLE Klaxon
+[2026-06-03 21:04:55] iTunes Request: gidle Klaxon
+[2026-06-03 21:04:56] Deezer Request: (G)I-DLE Klaxon
+[2026-06-03 21:04:58] --------------------------------------------
+[2026-06-03 21:04:58] [8/90] Fetching ID: m88 (summer) - f(x) - Hot Summer
+[2026-06-03 21:04:58] iTunes Request: f(x) Hot Summer
+[2026-06-03 21:04:58] iTunes Request: fx Hot Summer
+[2026-06-03 21:04:59] Deezer Request: f(x) Hot Summer
+[2026-06-03 21:05:01] --------------------------------------------
+[2026-06-03 21:05:01] [9/90] Fetching ID: m89 (summer) - San E, 레이나 - 한여름밤의 꿀
+[2026-06-03 21:05:01] iTunes Request: San E, 레이나 한여름밤의 꿀
+[2026-06-03 21:05:02] iTunes Request: San E midsummer night sweetness
+[2026-06-03 21:05:02] Deezer Request: San E, 레이나 한여름밤의 꿀
+[2026-06-03 21:05:02] Deezer Request: San E midsummer night sweetness
+[2026-06-03 21:05:05] --------------------------------------------
+[2026-06-03 21:05:05] [10/90] Fetching ID: m90 (summer) - DNCE - Cake By The Ocean
+[2026-06-03 21:05:05] iTunes Request: DNCE Cake By The Ocean
+[2026-06-03 21:05:05] iTunes Request: DNCE Cake By The Ocean
+[2026-06-03 21:05:05] Deezer Request: DNCE Cake By The Ocean
+[2026-06-03 21:05:08] --------------------------------------------
+[2026-06-03 21:05:08] [11/90] Fetching ID: m91 (summer) - OneRepublic - Sunshine
+[2026-06-03 21:05:08] iTunes Request: OneRepublic Sunshine
+[2026-06-03 21:05:08] iTunes Request: OneRepublic Sunshine
+[2026-06-03 21:05:08] Deezer Request: OneRepublic Sunshine
+[2026-06-03 21:05:11] --------------------------------------------
+[2026-06-03 21:05:11] [12/90] Fetching ID: m92 (summer) - d4vd - Feel It
+[2026-06-03 21:05:11] iTunes Request: d4vd Feel It
+[2026-06-03 21:05:11] iTunes Request: d4vd Feel It
+[2026-06-03 21:05:12] Deezer Request: d4vd Feel It
+[2026-06-03 21:05:14] --------------------------------------------
+[2026-06-03 21:05:14] [13/90] Fetching ID: m93 (summer) - 범키 - 여기저기거기
+[2026-06-03 21:05:14] iTunes Request: 범키 여기저기거기
+[2026-06-03 21:05:14] iTunes Request: bumkey endemic
+[2026-06-03 21:05:15] Deezer Request: 범키 여기저기거기
+[2026-06-03 21:05:17] --------------------------------------------
+[2026-06-03 21:05:17] [14/90] Fetching ID: m94 (summer) - LE SSERAFIM - HOT
+[2026-06-03 21:05:17] iTunes Request: LE SSERAFIM HOT
+[2026-06-03 21:05:17] iTunes Request: LE SSERAFIM HOT
+[2026-06-03 21:05:18] Deezer Request: LE SSERAFIM HOT
+[2026-06-03 21:05:18] Deezer Request: LE SSERAFIM HOT
+[2026-06-03 21:05:18] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:05:22] --------------------------------------------
+[2026-06-03 21:05:22] [15/90] Fetching ID: m95 (summer) - 혁오 - Surf Boy
+[2026-06-03 21:05:22] iTunes Request: 혁오 Surf Boy
+[2026-06-03 21:05:23] iTunes Request: hyukoh Surf Boy
+[2026-06-03 21:05:23] Deezer Request: 혁오 Surf Boy
+[2026-06-03 21:05:25] --------------------------------------------
+[2026-06-03 21:05:25] [16/90] Fetching ID: m96 (summer) - WOODZ - Drowning
+[2026-06-03 21:05:25] iTunes Request: WOODZ Drowning
+[2026-06-03 21:05:26] iTunes Request: WOODZ Drowning
+[2026-06-03 21:05:26] Deezer Request: WOODZ Drowning
+[2026-06-03 21:05:28] --------------------------------------------
+[2026-06-03 21:05:28] [17/90] Fetching ID: m97 (summer) - 프로미스나인 - Stay This Way
+[2026-06-03 21:05:28] iTunes Request: 프로미스나인 Stay This Way
+[2026-06-03 21:05:29] iTunes Request: fromis_9 Stay This Way
+[2026-06-03 21:05:29] Deezer Request: 프로미스나인 Stay This Way
+[2026-06-03 21:05:29] Deezer Request: fromis_9 Stay This Way
+[2026-06-03 21:05:30] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:05:34] --------------------------------------------
+[2026-06-03 21:05:34] [18/90] Fetching ID: m98 (summer) - 비비 - PADO
+[2026-06-03 21:05:34] iTunes Request: 비비 PADO
+[2026-06-03 21:05:34] iTunes Request: BIBI PADO
+[2026-06-03 21:05:34] Deezer Request: 비비 PADO
+[2026-06-03 21:05:35] Deezer Request: BIBI PADO
+[2026-06-03 21:05:37] --------------------------------------------
+[2026-06-03 21:05:37] [19/90] Fetching ID: m99 (summer) - 에픽하이 - 우산 (feat. 윤하)
+[2026-06-03 21:05:37] iTunes Request: 에픽하이 우산 (feat. 윤하)
+[2026-06-03 21:05:37] iTunes Request: Epik High umbrella younha
+[2026-06-03 21:05:37] Deezer Request: 에픽하이 우산 (feat. 윤하)
+[2026-06-03 21:05:40] --------------------------------------------
+[2026-06-03 21:05:40] [20/90] Fetching ID: m100 (summer) - 리도어 - 영원은 그렇듯
+[2026-06-03 21:05:40] iTunes Request: 리도어 영원은 그렇듯
+[2026-06-03 21:05:40] iTunes Request: redoor forever
+[2026-06-03 21:05:40] Deezer Request: 리도어 영원은 그렇듯
+[2026-06-03 21:05:41] Deezer Request: redoor forever
+[2026-06-03 21:05:43] --------------------------------------------
+[2026-06-03 21:05:43] [21/90] Fetching ID: m101 (summer) - 헤이즈, DEAN - And July
+[2026-06-03 21:05:43] iTunes Request: 헤이즈, DEAN And July
+[2026-06-03 21:05:43] iTunes Request: Heize And July
+[2026-06-03 21:05:44] Deezer Request: 헤이즈, DEAN And July
+[2026-06-03 21:05:46] --------------------------------------------
+[2026-06-03 21:05:46] [22/90] Fetching ID: m102 (summer) - aespa - Bahama
+[2026-06-03 21:05:46] iTunes Request: aespa Bahama
+[2026-06-03 21:05:46] iTunes Request: aespa Bahama
+[2026-06-03 21:05:47] Deezer Request: aespa Bahama
+[2026-06-03 21:05:47] Deezer Request: aespa Bahama
+[2026-06-03 21:05:47] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:05:51] --------------------------------------------
+[2026-06-03 21:05:51] [23/90] Fetching ID: m103 (summer) - 잔나비 - 작전명 청-춘!
+[2026-06-03 21:05:51] iTunes Request: 잔나비 작전명 청-춘!
+[2026-06-03 21:05:52] iTunes Request: jannabi blue spring
+[2026-06-03 21:05:52] Deezer Request: 잔나비 작전명 청-춘!
+[2026-06-03 21:05:52] Deezer Request: jannabi blue spring
+[2026-06-03 21:05:53] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:05:57] --------------------------------------------
+[2026-06-03 21:05:57] [24/90] Fetching ID: m104 (summer) - HONNE - 3AM
+[2026-06-03 21:05:57] iTunes Request: HONNE 3AM
+[2026-06-03 21:05:57] iTunes Request: HONNE 3am
+[2026-06-03 21:05:57] Deezer Request: HONNE 3AM
+[2026-06-03 21:06:00] --------------------------------------------
+[2026-06-03 21:06:00] [25/90] Fetching ID: m105 (summer) - Nicky Youre - Sunroof
+[2026-06-03 21:06:00] iTunes Request: Nicky Youre Sunroof
+[2026-06-03 21:06:00] iTunes Request: Nicky Youre Sunroof
+[2026-06-03 21:06:00] Deezer Request: Nicky Youre Sunroof
+[2026-06-03 21:06:03] --------------------------------------------
+[2026-06-03 21:06:03] [26/90] Fetching ID: m106 (summer) - DPR LIVE - Summer Tights
+[2026-06-03 21:06:03] iTunes Request: DPR LIVE Summer Tights
+[2026-06-03 21:06:03] iTunes Request: DPR LIVE Summer Tights
+[2026-06-03 21:06:03] Deezer Request: DPR LIVE Summer Tights
+[2026-06-03 21:06:06] --------------------------------------------
+[2026-06-03 21:06:06] [27/90] Fetching ID: m107 (summer) - WINNER - Island
+[2026-06-03 21:06:06] iTunes Request: WINNER Island
+[2026-06-03 21:06:06] iTunes Request: WINNER ISLAND
+[2026-06-03 21:06:06] Deezer Request: WINNER Island
+[2026-06-03 21:06:09] --------------------------------------------
+[2026-06-03 21:06:09] [28/90] Fetching ID: m108 (summer) - COIN - Malibu 1992
+[2026-06-03 21:06:09] iTunes Request: COIN Malibu 1992
+[2026-06-03 21:06:09] iTunes Request: COIN Malibu 1992
+[2026-06-03 21:06:09] Deezer Request: COIN Malibu 1992
+[2026-06-03 21:06:11] --------------------------------------------
+[2026-06-03 21:06:11] [29/90] Fetching ID: m109 (summer) - Cigarettes After Sex - Sunsetz
+[2026-06-03 21:06:11] iTunes Request: Cigarettes After Sex Sunsetz
+[2026-06-03 21:06:12] iTunes Request: Cigarettes After Sex Sunsetz
+[2026-06-03 21:06:12] Deezer Request: Cigarettes After Sex Sunsetz
+[2026-06-03 21:06:14] --------------------------------------------
+[2026-06-03 21:06:14] [30/90] Fetching ID: m110 (summer) - Empire of the Sun - Walking on a Dream
+[2026-06-03 21:06:14] iTunes Request: Empire of the Sun Walking on a Dream
+[2026-06-03 21:06:15] iTunes Request: Empire of the Sun Walking on a Dream
+[2026-06-03 21:06:15] Deezer Request: Empire of the Sun Walking on a Dream
+[2026-06-03 21:06:18] --------------------------------------------
+[2026-06-03 21:06:18] [31/90] Fetching ID: m111 (fall) - 이문세 - 가을이 오면
+[2026-06-03 21:06:18] iTunes Request: 이문세 가을이 오면
+[2026-06-03 21:06:18] iTunes Request: lee moon sae when autumn comes
+[2026-06-03 21:06:18] Deezer Request: 이문세 가을이 오면
+[2026-06-03 21:06:20] --------------------------------------------
+[2026-06-03 21:06:20] [32/90] Fetching ID: m112 (fall) - 잔나비 - 가을 밤에 든 생각
+[2026-06-03 21:06:20] iTunes Request: 잔나비 가을 밤에 든 생각
+[2026-06-03 21:06:21] iTunes Request: jannabi thought autumn night
+[2026-06-03 21:06:21] Deezer Request: 잔나비 가을 밤에 든 생각
+[2026-06-03 21:06:21] Deezer Request: jannabi thought autumn night
+[2026-06-03 21:06:22] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:06:26] --------------------------------------------
+[2026-06-03 21:06:26] [33/90] Fetching ID: m113 (fall) - Delorians - <3 Song
+[2026-06-03 21:06:26] iTunes Request: Delorians <3 Song
+[2026-06-03 21:06:26] iTunes Request: Delorians heart song
+[2026-06-03 21:06:26] Deezer Request: Delorians <3 Song
+[2026-06-03 21:06:29] --------------------------------------------
+[2026-06-03 21:06:29] [34/90] Fetching ID: m114 (fall) - Hozier - Too Sweet
+[2026-06-03 21:06:29] iTunes Request: Hozier Too Sweet
+[2026-06-03 21:06:29] iTunes Request: Hozier Too Sweet
+[2026-06-03 21:06:29] Deezer Request: Hozier Too Sweet
+[2026-06-03 21:06:32] --------------------------------------------
+[2026-06-03 21:06:32] [35/90] Fetching ID: m115 (fall) - HONNE - Me & You
+[2026-06-03 21:06:32] iTunes Request: HONNE Me & You
+[2026-06-03 21:06:32] iTunes Request: HONNE Me and You
+[2026-06-03 21:06:32] Deezer Request: HONNE Me & You
+[2026-06-03 21:06:35] --------------------------------------------
+[2026-06-03 21:06:35] [36/90] Fetching ID: m116 (fall) - Connor Price - Trendsetter
+[2026-06-03 21:06:35] iTunes Request: Connor Price Trendsetter
+[2026-06-03 21:06:35] iTunes Request: Connor Price Trendsetter
+[2026-06-03 21:06:35] Deezer Request: Connor Price Trendsetter
+[2026-06-03 21:06:37] --------------------------------------------
+[2026-06-03 21:06:37] [37/90] Fetching ID: m117 (fall) - Steelix - Lay It Down (Remix)
+[2026-06-03 21:06:37] iTunes Request: Steelix Lay It Down (Remix)
+[2026-06-03 21:06:38] iTunes Request: Steelix Lay It Down
+[2026-06-03 21:06:38] Deezer Request: Steelix Lay It Down (Remix)
+[2026-06-03 21:06:38] Deezer Request: Steelix Lay It Down
+[2026-06-03 21:06:41] --------------------------------------------
+[2026-06-03 21:06:41] [38/90] Fetching ID: m118 (fall) - 잔나비 - November Rain
+[2026-06-03 21:06:41] iTunes Request: 잔나비 November Rain
+[2026-06-03 21:06:41] iTunes Request: jannabi November Rain
+[2026-06-03 21:06:41] Deezer Request: 잔나비 November Rain
+[2026-06-03 21:06:42] Deezer Request: jannabi November Rain
+[2026-06-03 21:06:42] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:06:46] --------------------------------------------
+[2026-06-03 21:06:46] [39/90] Fetching ID: m119 (fall) - GIST - Black Swan
+[2026-06-03 21:06:46] iTunes Request: GIST Black Swan
+[2026-06-03 21:06:46] iTunes Request: GIST Black Swan
+[2026-06-03 21:06:47] Deezer Request: GIST Black Swan
+[2026-06-03 21:06:49] --------------------------------------------
+[2026-06-03 21:06:49] [40/90] Fetching ID: m120 (fall) - Frank Ocean - Pink + White
+[2026-06-03 21:06:49] iTunes Request: Frank Ocean Pink + White
+[2026-06-03 21:06:49] iTunes Request: Frank Ocean Pink White
+[2026-06-03 21:06:50] Deezer Request: Frank Ocean Pink + White
+[2026-06-03 21:06:52] --------------------------------------------
+[2026-06-03 21:06:52] [41/90] Fetching ID: m121 (fall) - 어반자카파 - 서울 밤
+[2026-06-03 21:06:52] iTunes Request: 어반자카파 서울 밤
+[2026-06-03 21:06:53] iTunes Request: urban zakapa seoul night
+[2026-06-03 21:06:53] Deezer Request: 어반자카파 서울 밤
+[2026-06-03 21:06:55] --------------------------------------------
+[2026-06-03 21:06:55] [42/90] Fetching ID: m122 (fall) - 잔나비 - 투게더!
+[2026-06-03 21:06:55] iTunes Request: 잔나비 투게더!
+[2026-06-03 21:06:55] iTunes Request: jannabi together
+[2026-06-03 21:06:56] Deezer Request: 잔나비 투게더!
+[2026-06-03 21:06:56] Deezer Request: jannabi together
+[2026-06-03 21:06:58] --------------------------------------------
+[2026-06-03 21:06:58] [43/90] Fetching ID: m123 (fall) - Childish Gambino - Redbone
+[2026-06-03 21:06:58] iTunes Request: Childish Gambino Redbone
+[2026-06-03 21:06:59] iTunes Request: Childish Gambino Redbone
+[2026-06-03 21:06:59] Deezer Request: Childish Gambino Redbone
+[2026-06-03 21:07:01] --------------------------------------------
+[2026-06-03 21:07:01] [44/90] Fetching ID: m124 (fall) - 민수 - 민수는 혼란스럽다
+[2026-06-03 21:07:01] iTunes Request: 민수 민수는 혼란스럽다
+[2026-06-03 21:07:02] iTunes Request: minsu confused
+[2026-06-03 21:07:02] Deezer Request: 민수 민수는 혼란스럽다
+[2026-06-03 21:07:04] --------------------------------------------
+[2026-06-03 21:07:04] [45/90] Fetching ID: m125 (fall) - Saint Motel - Preach
+[2026-06-03 21:07:04] iTunes Request: Saint Motel Preach
+[2026-06-03 21:07:04] iTunes Request: Saint Motel Preach
+[2026-06-03 21:07:05] Deezer Request: Saint Motel Preach
+[2026-06-03 21:07:07] --------------------------------------------
+[2026-06-03 21:07:07] [46/90] Fetching ID: m126 (fall) - Saint Motel - My Type
+[2026-06-03 21:07:07] iTunes Request: Saint Motel My Type
+[2026-06-03 21:07:07] iTunes Request: Saint Motel My Type
+[2026-06-03 21:07:08] Deezer Request: Saint Motel My Type
+[2026-06-03 21:07:08] Deezer Request: Saint Motel My Type
+[2026-06-03 21:07:08] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:07:12] --------------------------------------------
+[2026-06-03 21:07:12] [47/90] Fetching ID: m127 (fall) - Bruno Mars - Runaway Baby
+[2026-06-03 21:07:12] iTunes Request: Bruno Mars Runaway Baby
+[2026-06-03 21:07:13] iTunes Request: Bruno Mars Runaway Baby
+[2026-06-03 21:07:13] Deezer Request: Bruno Mars Runaway Baby
+[2026-06-03 21:07:15] --------------------------------------------
+[2026-06-03 21:07:15] [48/90] Fetching ID: m128 (fall) - almost monday - Only Wanna Dance
+[2026-06-03 21:07:15] iTunes Request: almost monday Only Wanna Dance
+[2026-06-03 21:07:16] iTunes Request: almost monday only wanna dance
+[2026-06-03 21:07:16] Deezer Request: almost monday Only Wanna Dance
+[2026-06-03 21:07:18] --------------------------------------------
+[2026-06-03 21:07:18] [49/90] Fetching ID: m129 (fall) - Robin Thicke - Blurred Lines
+[2026-06-03 21:07:18] iTunes Request: Robin Thicke Blurred Lines
+[2026-06-03 21:07:19] iTunes Request: Robin Thicke Blurred Lines
+[2026-06-03 21:07:19] Deezer Request: Robin Thicke Blurred Lines
+[2026-06-03 21:07:21] --------------------------------------------
+[2026-06-03 21:07:21] [50/90] Fetching ID: m130 (fall) - 이고도 - Mouse
+[2026-06-03 21:07:21] iTunes Request: 이고도 Mouse
+[2026-06-03 21:07:21] iTunes Request: lee go do Mouse
+[2026-06-03 21:07:22] Deezer Request: 이고도 Mouse
+[2026-06-03 21:07:24] --------------------------------------------
+[2026-06-03 21:07:24] [51/90] Fetching ID: m131 (fall) - SZA - Good Days
+[2026-06-03 21:07:24] iTunes Request: SZA Good Days
+[2026-06-03 21:07:24] iTunes Request: SZA Good Days
+[2026-06-03 21:07:25] Deezer Request: SZA Good Days
+[2026-06-03 21:07:27] --------------------------------------------
+[2026-06-03 21:07:27] [52/90] Fetching ID: m132 (fall) - HYBS - Ride
+[2026-06-03 21:07:27] iTunes Request: HYBS Ride
+[2026-06-03 21:07:27] iTunes Request: HYBS Ride
+[2026-06-03 21:07:28] Deezer Request: HYBS Ride
+[2026-06-03 21:07:30] --------------------------------------------
+[2026-06-03 21:07:30] [53/90] Fetching ID: m133 (fall) - THAMA - Real Thing
+[2026-06-03 21:07:30] iTunes Request: THAMA Real Thing
+[2026-06-03 21:07:30] iTunes Request: THAMA Real Thing
+[2026-06-03 21:07:31] Deezer Request: THAMA Real Thing
+[2026-06-03 21:07:33] --------------------------------------------
+[2026-06-03 21:07:33] [54/90] Fetching ID: m134 (fall) - 너드커넥션 - 조용히 완전히 영원히
+[2026-06-03 21:07:33] iTunes Request: 너드커넥션 조용히 완전히 영원히
+[2026-06-03 21:07:33] iTunes Request: nerd connection silently completely forever
+[2026-06-03 21:07:34] Deezer Request: 너드커넥션 조용히 완전히 영원히
+[2026-06-03 21:07:36] --------------------------------------------
+[2026-06-03 21:07:36] [55/90] Fetching ID: m135 (fall) - Daniel Caesar - Best Part
+[2026-06-03 21:07:36] iTunes Request: Daniel Caesar Best Part
+[2026-06-03 21:07:37] iTunes Request: Daniel Caesar Best Part
+[2026-06-03 21:07:37] Deezer Request: Daniel Caesar Best Part
+[2026-06-03 21:07:39] --------------------------------------------
+[2026-06-03 21:07:39] [56/90] Fetching ID: m136 (fall) - Daniel Caesar - Japanese Denim
+[2026-06-03 21:07:39] iTunes Request: Daniel Caesar Japanese Denim
+[2026-06-03 21:07:40] iTunes Request: Daniel Caesar Japanese Denim
+[2026-06-03 21:07:40] Deezer Request: Daniel Caesar Japanese Denim
+[2026-06-03 21:07:42] --------------------------------------------
+[2026-06-03 21:07:42] [57/90] Fetching ID: m137 (fall) - Frank Ocean - Ivy
+[2026-06-03 21:07:42] iTunes Request: Frank Ocean Ivy
+[2026-06-03 21:07:42] iTunes Request: Frank Ocean Ivy
+[2026-06-03 21:07:43] Deezer Request: Frank Ocean Ivy
+[2026-06-03 21:07:45] --------------------------------------------
+[2026-06-03 21:07:45] [58/90] Fetching ID: m138 (fall) - Cage The Elephant - Cigarette Daydreams
+[2026-06-03 21:07:45] iTunes Request: Cage The Elephant Cigarette Daydreams
+[2026-06-03 21:07:45] iTunes Request: Cage The Elephant Cigarette Daydreams
+[2026-06-03 21:07:46] Deezer Request: Cage The Elephant Cigarette Daydreams
+[2026-06-03 21:07:48] --------------------------------------------
+[2026-06-03 21:07:48] [59/90] Fetching ID: m139 (fall) - HONNE - Location Unknown
+[2026-06-03 21:07:48] iTunes Request: HONNE Location Unknown
+[2026-06-03 21:07:49] iTunes Request: HONNE Location Unknown
+[2026-06-03 21:07:49] Deezer Request: HONNE Location Unknown
+[2026-06-03 21:07:51] --------------------------------------------
+[2026-06-03 21:07:51] [60/90] Fetching ID: m140 (fall) - Mahalia - Plastic Plants
+[2026-06-03 21:07:51] iTunes Request: Mahalia Plastic Plants
+[2026-06-03 21:07:52] iTunes Request: Mahalia Plastic Plants
+[2026-06-03 21:07:52] Deezer Request: Mahalia Plastic Plants
+[2026-06-03 21:07:52] Deezer Request: Mahalia Plastic Plants
+[2026-06-03 21:07:53] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:07:57] --------------------------------------------
+[2026-06-03 21:07:57] [61/90] Fetching ID: m141 (winter) - HONNE - Warm On A Cold Night
+[2026-06-03 21:07:57] iTunes Request: HONNE Warm On A Cold Night
+[2026-06-03 21:07:57] iTunes Request: HONNE Warm On A Cold Night
+[2026-06-03 21:07:57] Deezer Request: HONNE Warm On A Cold Night
+[2026-06-03 21:07:58] Deezer Request: HONNE Warm On A Cold Night
+[2026-06-03 21:07:58] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:08:02] --------------------------------------------
+[2026-06-03 21:08:02] [62/90] Fetching ID: m142 (winter) - HONNE - Good Together
+[2026-06-03 21:08:02] iTunes Request: HONNE Good Together
+[2026-06-03 21:08:03] iTunes Request: HONNE Good Together
+[2026-06-03 21:08:03] Deezer Request: HONNE Good Together
+[2026-06-03 21:08:05] --------------------------------------------
+[2026-06-03 21:08:05] [63/90] Fetching ID: m143 (winter) - John Splithoff - Raye
+[2026-06-03 21:08:05] iTunes Request: John Splithoff Raye
+[2026-06-03 21:08:06] iTunes Request: John Splithoff Raye
+[2026-06-03 21:08:06] Deezer Request: John Splithoff Raye
+[2026-06-03 21:08:08] --------------------------------------------
+[2026-06-03 21:08:08] [64/90] Fetching ID: m144 (winter) - HONNE - It Ain't Wrong Loving You
+[2026-06-03 21:08:08] iTunes Request: HONNE It Ain't Wrong Loving You
+[2026-06-03 21:08:09] iTunes Request: HONNE It Aint Wrong Loving You
+[2026-06-03 21:08:09] Deezer Request: HONNE It Ain't Wrong Loving You
+[2026-06-03 21:08:09] Deezer Request: HONNE It Aint Wrong Loving You
+[2026-06-03 21:08:10] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:08:14] --------------------------------------------
+[2026-06-03 21:08:14] [65/90] Fetching ID: m145 (winter) - 다이나믹 듀오 - 싱숭생숭
+[2026-06-03 21:08:14] iTunes Request: 다이나믹 듀오 싱숭생숭
+[2026-06-03 21:08:14] iTunes Request: dynamic duo flutter
+[2026-06-03 21:08:14] Deezer Request: 다이나믹 듀오 싱숭생숭
+[2026-06-03 21:08:15] Deezer Request: dynamic duo flutter
+[2026-06-03 21:08:15] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:08:19] --------------------------------------------
+[2026-06-03 21:08:19] [66/90] Fetching ID: m146 (winter) - 이무진 - 눈이 오잖아
+[2026-06-03 21:08:19] iTunes Request: 이무진 눈이 오잖아
+[2026-06-03 21:08:19] iTunes Request: lee mujin snow falling
+[2026-06-03 21:08:20] Deezer Request: 이무진 눈이 오잖아
+[2026-06-03 21:08:20] Deezer Request: lee mujin snow falling
+[2026-06-03 21:08:20] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:08:24] --------------------------------------------
+[2026-06-03 21:08:24] [67/90] Fetching ID: m147 (winter) - sokodomo - 회전목마
+[2026-06-03 21:08:24] iTunes Request: sokodomo 회전목마
+[2026-06-03 21:08:25] iTunes Request: sokodomo merry go round
+[2026-06-03 21:08:25] Deezer Request: sokodomo 회전목마
+[2026-06-03 21:08:25] Deezer Request: sokodomo merry go round
+[2026-06-03 21:08:27] --------------------------------------------
+[2026-06-03 21:08:27] [68/90] Fetching ID: m148 (winter) - HONNE - By My Side
+[2026-06-03 21:08:27] iTunes Request: HONNE By My Side
+[2026-06-03 21:08:28] iTunes Request: HONNE By My Side
+[2026-06-03 21:08:28] Deezer Request: HONNE By My Side
+[2026-06-03 21:08:30] --------------------------------------------
+[2026-06-03 21:08:30] [69/90] Fetching ID: m149 (winter) - The Weeknd - After Hours
+[2026-06-03 21:08:30] iTunes Request: The Weeknd After Hours
+[2026-06-03 21:08:31] iTunes Request: The Weeknd After Hours
+[2026-06-03 21:08:31] Deezer Request: The Weeknd After Hours
+[2026-06-03 21:08:33] --------------------------------------------
+[2026-06-03 21:08:33] [70/90] Fetching ID: m150 (winter) - Joseph Lee - Mulholland Drive
+[2026-06-03 21:08:33] iTunes Request: Joseph Lee Mulholland Drive
+[2026-06-03 21:08:34] iTunes Request: Joseph Lee Mulholland Drive
+[2026-06-03 21:08:34] Deezer Request: Joseph Lee Mulholland Drive
+[2026-06-03 21:08:34] Deezer Request: Joseph Lee Mulholland Drive
+[2026-06-03 21:08:35] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:08:39] --------------------------------------------
+[2026-06-03 21:08:39] [71/90] Fetching ID: m151 (winter) - 혁오 - 공드리
+[2026-06-03 21:08:39] iTunes Request: 혁오 공드리
+[2026-06-03 21:08:39] iTunes Request: hyukoh gondry
+[2026-06-03 21:08:39] Deezer Request: 혁오 공드리
+[2026-06-03 21:08:42] --------------------------------------------
+[2026-06-03 21:08:42] [72/90] Fetching ID: m152 (winter) - Cosmic Boy - Can I Love?
+[2026-06-03 21:08:42] iTunes Request: Cosmic Boy Can I Love?
+[2026-06-03 21:08:42] iTunes Request: Cosmic Boy Can I Love
+[2026-06-03 21:08:43] Deezer Request: Cosmic Boy Can I Love?
+[2026-06-03 21:08:43] Deezer Request: Cosmic Boy Can I Love
+[2026-06-03 21:08:43] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:08:47] --------------------------------------------
+[2026-06-03 21:08:47] [73/90] Fetching ID: m153 (winter) - 윤딴딴 - 겨울을 걷는다
+[2026-06-03 21:08:47] iTunes Request: 윤딴딴 겨울을 걷는다
+[2026-06-03 21:08:48] iTunes Request: yun ddan ddan walking winter
+[2026-06-03 21:08:48] Deezer Request: 윤딴딴 겨울을 걷는다
+[2026-06-03 21:08:50] --------------------------------------------
+[2026-06-03 21:08:50] [74/90] Fetching ID: m154 (winter) - 김하온 - Slow Down
+[2026-06-03 21:08:50] iTunes Request: 김하온 Slow Down
+[2026-06-03 21:08:50] iTunes Request: HAON Slow Down
+[2026-06-03 21:08:51] Deezer Request: 김하온 Slow Down
+[2026-06-03 21:08:53] --------------------------------------------
+[2026-06-03 21:08:53] [75/90] Fetching ID: m155 (winter) - Harry Styles - Late Night Talking
+[2026-06-03 21:08:53] iTunes Request: Harry Styles Late Night Talking
+[2026-06-03 21:08:53] iTunes Request: Harry Styles Late Night Talking
+[2026-06-03 21:08:54] Deezer Request: Harry Styles Late Night Talking
+[2026-06-03 21:08:56] --------------------------------------------
+[2026-06-03 21:08:56] [76/90] Fetching ID: m156 (winter) - Chuck Berry - Run Rudolph Run
+[2026-06-03 21:08:56] iTunes Request: Chuck Berry Run Rudolph Run
+[2026-06-03 21:08:56] iTunes Request: Chuck Berry Run Rudolph Run
+[2026-06-03 21:08:57] Deezer Request: Chuck Berry Run Rudolph Run
+[2026-06-03 21:08:59] --------------------------------------------
+[2026-06-03 21:08:59] [77/90] Fetching ID: m157 (winter) - Mariah Carey - All I Want For Christmas Is You
+[2026-06-03 21:08:59] iTunes Request: Mariah Carey All I Want For Christmas Is You
+[2026-06-03 21:08:59] iTunes Request: Mariah Carey All I Want For Christmas
+[2026-06-03 21:09:00] Deezer Request: Mariah Carey All I Want For Christmas Is You
+[2026-06-03 21:09:02] --------------------------------------------
+[2026-06-03 21:09:02] [78/90] Fetching ID: m158 (winter) - Gwen Stefani - You Make It Feel Like Christmas
+[2026-06-03 21:09:02] iTunes Request: Gwen Stefani You Make It Feel Like Christmas
+[2026-06-03 21:09:02] iTunes Request: Gwen Stefani You Make It Feel Like Christmas
+[2026-06-03 21:09:03] Deezer Request: Gwen Stefani You Make It Feel Like Christmas
+[2026-06-03 21:09:05] --------------------------------------------
+[2026-06-03 21:09:05] [79/90] Fetching ID: m159 (winter) - Kelly Clarkson - Underneath The Tree
+[2026-06-03 21:09:05] iTunes Request: Kelly Clarkson Underneath The Tree
+[2026-06-03 21:09:05] iTunes Request: Kelly Clarkson Underneath The Tree
+[2026-06-03 21:09:06] Deezer Request: Kelly Clarkson Underneath The Tree
+[2026-06-03 21:09:08] --------------------------------------------
+[2026-06-03 21:09:08] [80/90] Fetching ID: m160 (winter) - George Michael - Careless Whisper
+[2026-06-03 21:09:08] iTunes Request: George Michael Careless Whisper
+[2026-06-03 21:09:08] iTunes Request: George Michael Careless Whisper
+[2026-06-03 21:09:09] Deezer Request: George Michael Careless Whisper
+[2026-06-03 21:09:11] --------------------------------------------
+[2026-06-03 21:09:11] [81/90] Fetching ID: m161 (winter) - Ghost - Mary On A Cross
+[2026-06-03 21:09:11] iTunes Request: Ghost Mary On A Cross
+[2026-06-03 21:09:11] iTunes Request: Ghost Mary On A Cross
+[2026-06-03 21:09:12] Deezer Request: Ghost Mary On A Cross
+[2026-06-03 21:09:14] --------------------------------------------
+[2026-06-03 21:09:14] [82/90] Fetching ID: m162 (winter) - Jeremih, Ty Dolla $ign, Sage The Gemini - Don't Get Much Better
+[2026-06-03 21:09:14] iTunes Request: Jeremih, Ty Dolla $ign, Sage The Gemini Don't Get Much Better
+[2026-06-03 21:09:14] iTunes Request: Jeremih Dont Get Much Better
+[2026-06-03 21:09:15] Deezer Request: Jeremih, Ty Dolla $ign, Sage The Gemini Don't Get Much Better
+[2026-06-03 21:09:15] Deezer Request: Jeremih Dont Get Much Better
+[2026-06-03 21:09:15] Warning: Fetch failed. Using fallback placeholders.
+[2026-06-03 21:09:19] --------------------------------------------
+[2026-06-03 21:09:19] [83/90] Fetching ID: m163 (winter) - HONNE - Crying Over You
+[2026-06-03 21:09:19] iTunes Request: HONNE Crying Over You
+[2026-06-03 21:09:20] iTunes Request: HONNE Crying Over You
+[2026-06-03 21:09:20] Deezer Request: HONNE Crying Over You
+[2026-06-03 21:09:22] --------------------------------------------
+[2026-06-03 21:09:22] [84/90] Fetching ID: m164 (winter) - HONNE - no song without you
+[2026-06-03 21:09:22] iTunes Request: HONNE no song without you
+[2026-06-03 21:09:23] iTunes Request: HONNE no song without you
+[2026-06-03 21:09:23] Deezer Request: HONNE no song without you
+[2026-06-03 21:09:25] --------------------------------------------
+[2026-06-03 21:09:25] [85/90] Fetching ID: m165 (winter) - HONNE - Someone That Loves You
+[2026-06-03 21:09:25] iTunes Request: HONNE Someone That Loves You
+[2026-06-03 21:09:26] iTunes Request: HONNE Someone That Loves You
+[2026-06-03 21:09:26] Deezer Request: HONNE Someone That Loves You
+[2026-06-03 21:09:28] --------------------------------------------
+[2026-06-03 21:09:28] [86/90] Fetching ID: m166 (winter) - Arctic Monkeys - 505
+[2026-06-03 21:09:28] iTunes Request: Arctic Monkeys 505
+[2026-06-03 21:09:28] iTunes Request: Arctic Monkeys 505
+[2026-06-03 21:09:29] Deezer Request: Arctic Monkeys 505
+[2026-06-03 21:09:31] --------------------------------------------
+[2026-06-03 21:09:31] [87/90] Fetching ID: m167 (winter) - Sia - Snowman
+[2026-06-03 21:09:31] iTunes Request: Sia Snowman
+[2026-06-03 21:09:31] iTunes Request: Sia Snowman
+[2026-06-03 21:09:32] Deezer Request: Sia Snowman
+[2026-06-03 21:09:34] --------------------------------------------
+[2026-06-03 21:09:34] [88/90] Fetching ID: m168 (winter) - Coldplay - Christmas Lights
+[2026-06-03 21:09:34] iTunes Request: Coldplay Christmas Lights
+[2026-06-03 21:09:34] iTunes Request: Coldplay Christmas Lights
+[2026-06-03 21:09:35] Deezer Request: Coldplay Christmas Lights
+[2026-06-03 21:09:37] --------------------------------------------
+[2026-06-03 21:09:37] [89/90] Fetching ID: m169 (winter) - The Neighbourhood - Sweater Weather
+[2026-06-03 21:09:37] iTunes Request: The Neighbourhood Sweater Weather
+[2026-06-03 21:09:37] iTunes Request: The Neighbourhood Sweater Weather
+[2026-06-03 21:09:38] Deezer Request: The Neighbourhood Sweater Weather
+[2026-06-03 21:09:40] --------------------------------------------
+[2026-06-03 21:09:40] [90/90] Fetching ID: m170 (winter) - beabadoobee - Glue Song
+[2026-06-03 21:09:40] iTunes Request: beabadoobee Glue Song
+[2026-06-03 21:09:40] iTunes Request: beabadoobee Glue Song
+[2026-06-03 21:09:41] Deezer Request: beabadoobee Glue Song
+[2026-06-03 21:09:43] Starting JSON Serialization...
+[2026-06-03 21:09:43] Metadata fetch process completed! Total 90 songs saved to scratch/all_seasons_fixed.json
